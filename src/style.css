@@ -1,0 +1,8 @@
+/* Global styles moved to App.vue or managed there */
+:root {
+  box-sizing: border-box;
+}
+
+*, ::before, ::after {
+  box-sizing: inherit;
+}

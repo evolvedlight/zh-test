@@ -1,0 +1,5617 @@
+[
+    {
+        "id": 1,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Die Schweiz ist neutral. Was heisst das?",
+        "options": [
+            "a)  Sie unterzeichnet keine internationalen Verträge.",
+            "b)  Sie schliesst nur mit Staaten Verträge, die nicht in Kriege verwickelt sind.",
+            "c)  Sie mischt sich nicht in bewaffnete Konflikte anderer Staaten ein.",
+            "d)  Sie will als Transitland wirtschaftlich unabhängig sein."
+        ],
+        "correct_answer": "c",
+        "explanation_en": null,
+        "option_images": null,
+        "question_image": null
+    },
+    {
+        "id": 2,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Was ist eine Grenzgängerin oder ein Grenzgänger?",
+        "options": [
+            "a)  eine Person, die in der Schweiz arbeitet und im Ausland wohnt",
+            "b)  eine Person, die nicht im gleichen Kanton wohnt und arbeitet",
+            "c)  Schweizer Handelsware, die ins Ausland exportiert wird",
+            "d)  Schweizer Handelsware, die vom Ausland in die Schweiz importiert wird"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/2.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 3,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Confoederatio Helvetica ...",
+        "options": [
+            "a)  ist der Name einer Schweizer Schokolade.",
+            "b)  ist der lateinische Name für die Schweizer Eidgenossenschaft.",
+            "c)  ist der Name des ersten Parlaments der Schweiz.",
+            "d)  ist eine Fraktion des Parlaments."
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/3.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 4,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Was ist ein Departement der Bundesverwaltung?",
+        "options": [
+            "a)  Ernährungsdepartement",
+            "b)  Natur- und Klimadepartement",
+            "c)  Schul- und Weiterbildungsdepartement",
+            "d)  Justiz- und Polizeidepartement"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/4.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 5,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Zwischen den Mitgliedern des Bundesrats gilt das Kollegialitätsprin- zip. Was heisst das?",
+        "options": [
+            "a)  Die Mitglieder des Bundesrates müssen sich gut kennen.",
+            "b)  Jeder Bundesrat vertritt seine eigenen politischen Meinungen.",
+            "c)  Alle Mitglieder müssen Entscheide des Bundesrates nach aussen gleich vertre- ten.",
+            "d)  Der Bundesrat Entscheidungen mit Abstimmung."
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/5.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 6,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Können die Stimmbürgerinnen und Stimmbürger ein neues Gesetz stoppen?",
+        "options": [
+            "a)  Ja - mit einer Initiative",
+            "b)  Nein - nur der Bundesrat kann Gesetze ändern",
+            "c)  Nein - nur der Nationalrat kann Gesetze ändern",
+            "d)  Ja - mit einem Referendum"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/6.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 7,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Was macht der Bundeskanzler oder die Bundeskanzlerin der Schweiz?",
+        "options": [
+            "a)  den Bundesrat unterstützen",
+            "b)  die Schweiz regieren",
+            "c)  den Bundesrat wählen",
+            "d)  Gesetze machen"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/7.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 8,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Was bedeutet bei Abstimmungen «Ständemehr»?",
+        "options": [
+            "a)  Mehrheit aller Stimmen",
+            "b)  Mehrheit der Kantone",
+            "c)  Mehrheit der Stimmen nach Sprachregionen der Schweiz",
+            "d)  Mehrheit in den vorausgegangenen Meinungsumfragen"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/8.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 9,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Welche politischen Rechte haben Schweizerinnen und Schweizer, die im Ausland leben?",
+        "options": [
+            "a)  Sie dürfen an Abstimmungen und Wahlen teilnehmen, wenn sie in der Schweiz zu Besuch sind.",
+            "b)  Sie verlieren alle politischen Rechte in der Schweiz.",
+            "c)  Sie können an nationalen Abstimmungen und Wahlen teilnehmen, ohne deswe- gen in die Schweiz reisen zu müssen.",
+            "d)  Sie dürfen sich im Gastland in keiner Weise politisch engagieren."
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/9.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 10,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Wer in der Schweiz wählen und abstimmen will, …",
+        "options": [
+            "a)  muss das Schweizer Bürgerrecht haben.",
+            "b)  muss einen Computer haben.",
+            "c)  muss in der Schweiz geboren sein.",
+            "d)  muss mehr Steuern zahlen."
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/10.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 11,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Was ist eine Partei?",
+        "options": [
+            "a)  ein Zusammenschluss von Menschen aus der gleichen Stadt oder dem gleichen Dorf",
+            "b)  ein Zusammenschluss von Menschen mit ähnlichen politischen Zielen",
+            "c)  ein Zusammenschluss von Menschen mit unterschiedlichen Weltanschauungen",
+            "d)  ein Zusammenschluss von Nationalräten oder Ständeräten, um die Mehrheit zu erreichen"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/11.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 12,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Was ist eine Aufgabe des Bundes?",
+        "options": [
+            "a)  Wasserversorgung",
+            "b)  Geldpolitik",
+            "c)  Polizeiwesen",
+            "d)  Organisation der Volksschule"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/12.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 13,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Was ist eine Aufgabe des Bundes?",
+        "options": [
+            "a)  Feuerwehr",
+            "b)  Begrünung von Parks",
+            "c)  Zoll",
+            "d)  Spitäler"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/13.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 14,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Was ist ein Grundrecht in der Schweiz?",
+        "options": [
+            "a)  Tierhaltung",
+            "b)  Meinungs- und Informationsfreiheit",
+            "c)  kostenloser Fernsehzugang",
+            "d)  WLAN-Zugang"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/14.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 15,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Was ist ein Grundrecht in der Schweiz?",
+        "options": [
+            "a)  Recht auf Waffenbesitz",
+            "b)  Recht auf eine Wohnung",
+            "c)  Recht auf einen Arbeitsplatz",
+            "d)  Glaubens- und Gewissensfreiheit"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/15.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 16,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Welche Pflichten haben Einwohnerinnen und Einwohner der Schweiz?",
+        "options": [
+            "a)  Sie müssen Steuern bezahlen.",
+            "b)  Sie müssen eine Lehre machen.",
+            "c)  Sie müssen ein Bankkonto haben.",
+            "d)  Sie müssen den Führerausweis haben."
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/16.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 17,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Welche Pflichten haben Einwohnerinnen und Einwohner der Schweiz?",
+        "options": [
+            "a)  Sie müssen eine Weiterbildung machen.",
+            "b)  Sie müssen Mitglied einer Kirche sein.",
+            "c)  Sie müssen sich in der Gemeinde anmelden.",
+            "d)  Sie müssen ein Telefon haben."
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/17.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 18,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Welche Pflichten haben Einwohnerinnen und Einwohner der Schweiz?",
+        "options": [
+            "a)  Sie müssen gegen Diebstahl versichert sein.",
+            "b)  Sie müssen bei einer Krankenkasse versichert sein.",
+            "c)  Sie müssen ein Halbtax der SBB haben.",
+            "d)  Sie müssen ein Haus besitzen."
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/18.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 19,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Was bedeutet Rechtsgleichheit?",
+        "options": [
+            "a)  Alle verdienen gleich viel.",
+            "b)  Alle Kantone haben die gleichen Gesetze.",
+            "c)  Alle Menschen sind vor dem Gesetz gleich.",
+            "d)  Alle Menschen haben gleich lange Ferien."
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/19.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 20,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Wie heissen die beiden «Kammern» des Schweizer Parlaments?",
+        "options": [
+            "a)  Oberhaus und Unterhaus",
+            "b)  Senat und Kongress",
+            "c)  Nationalrat und Ständerat",
+            "d)  Fraktion und Kommission"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/20.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 21,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Die Schweiz ist …",
+        "options": [
+            "a)  eine Diktatur.",
+            "b)  ein absolutistischer Staat.",
+            "c)  eine Demokratie.",
+            "d)  ein Fürstentum."
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/21.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 22,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Was ist ein wichtiges Merkmal der Demokratie?",
+        "options": [
+            "a)  Das Volk wählt ein Parlament.",
+            "b)  Es regiert ein König.",
+            "c)  Die Menschen können frei reisen.",
+            "d)  Die Menschen haben ein garantiertes Grundeinkommen."
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/22.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 23,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Warum gibt es in einer Demokratie regelmässig Wahlen?",
+        "options": [
+            "a)  Damit das Interesse für Politik geweckt wird.",
+            "b)  Damit das Volk die Volksvertretung bestimmen kann.",
+            "c)  Damit die Armen mehr Macht bekommen.",
+            "d)  Damit Frauen und Männer gleichmässig vertreten sind."
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/23.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 24,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Wie heisst die Verfassung der Schweizerischen Eidgenossenschaft?",
+        "options": [
+            "a)  Grundgesetz",
+            "b)  Verfassungsvertrag",
+            "c)  Bundesbrief",
+            "d)  Bundesverfassung"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/24.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 25,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Wer führt die Regierungsgeschäfte der Schweiz?",
+        "options": [
+            "a)  die Parteien",
+            "b)  die Medien",
+            "c)  der Bundesrat",
+            "d)  die Bundesversammlung"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/25.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 26,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Wer beschliesst auf Bundesebene neue Gesetze?",
+        "options": [
+            "a)  das Bundesgericht",
+            "b)  die Präsidentinnen und Präsidenten der Parteien",
+            "c)  der Nationalrat und der Ständerat und das Volk (Referendum)",
+            "d)  die Bundeskanzlei"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/26.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 27,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Wer darf auf Bundesebene wählen und abstimmen?",
+        "options": [
+            "a)  Personen, die in der Schweiz wohnen",
+            "b)  Schweizerinnen und Schweizer ab 18 Jahren",
+            "c)  Schweizerinnen und Schweizer, die nicht vorbestraft sind",
+            "d)  Personen, die in der Schweiz Steuern bezahlen"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/27.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 28,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Ab wann sind Schweizerinnen und Schweizer auf Bundesebene stimm- und wahlberechtigt?",
+        "options": [
+            "a)  ab 18 Jahren",
+            "b)  ab 21 Jahren",
+            "c)  ab 25 Jahren",
+            "d)  ab 16 Jahren"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/28.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 29,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Was bedeutet das aktive Wahlrecht in der Demokratie?",
+        "options": [
+            "a)  Man darf nur wählen und abstimmen, wenn man in einer politischen Partei aktiv ist.",
+            "b)  Man kann in ein politisches Amt gewählt werden.",
+            "c)  Man darf wählen und abstimmen.",
+            "d)  Man muss beim Auszählen der Stimmen helfen."
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/29.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 30,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Wer kann auf Bundesebene in ein politisches Amt gewählt werden?",
+        "options": [
+            "a)  wer eine Arbeit hat",
+            "b)  wer in der Schweiz lebt",
+            "c)  wer das Schweizer Bürgerrecht hat und volljährig ist",
+            "d)  wer mindestens zwei Landessprachen spricht"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/30.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 31,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Wie können Schweizer Bürgerinnen und Bürger auf die Gesetzgebung Einfluss nehmen?",
+        "options": [
+            "a)  Sie können über Initiativen und Referenden abstimmen.",
+            "b)  Sie haben keine direkte Einflussmöglichkeit.",
+            "c)  Sie können einer Partei beitreten.",
+            "d)  Sie können den Bundesrat wählen."
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/31.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 32,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Gegen was kann man das Referendum ergreifen?",
+        "options": [
+            "a)  gegen Beschlüsse des Bundesrats",
+            "b)  gegen Urteile des Bundesgerichts",
+            "c)  gegen Gesetzesvorlagen von Nationalrat und Ständerat",
+            "d)  gegen Massnahmen der Bundesverwaltung"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/32.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 33,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Weshalb ist die Volksinitiative ein wichtiges politisches Recht der Stimmbürgerinnen und Stimmbürger? Sie können mit der Volksinitiative …",
+        "options": [
+            "a)  das Parlament ausschalten.",
+            "b)  die Regierung abwählen.",
+            "c)  politische Entscheidungen rückgängig machen.",
+            "d)  wichtige Anliegen aus der Bevölkerung politisch durchsetzen."
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/33.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 34,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Wie oft wählen die Stimmbürgerinnen und Stimmbürger das Bun- desparlament?",
+        "options": [
+            "a)  alle 6 Jahre",
+            "b)  alle 2 Jahre",
+            "c)  alle 4 Jahre",
+            "d)  alle 7 Jahre"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/34.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 35,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Die Bundesversammlung besteht aus 246 Mitgliedern. Wer wählt diese Mitglieder?",
+        "options": [
+            "a)  die wahlberechtigten Bürgerinnen und Bürger",
+            "b)  die Parteien",
+            "c)  alle Einwohnerinnen und Einwohner der Schweiz",
+            "d)  eine Wahlkommission"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/35.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 36,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Über was können stimmberechtigte Bürgerinnen und Bürger in der Schweiz auf Bundesebene abstimmen?",
+        "options": [
+            "a)  über Parteiprogramme",
+            "b)  über das Radio- und Fernsehprogramm",
+            "c)  über Volksinitiativen und Referenden",
+            "d)  über die Besetzung von Verwaltungsstellen"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/36.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 37,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Was ist die zentrale Aufgabe der Bundesversammlung (Bundesparla- ment)?",
+        "options": [
+            "a)  Sie organisiert Wahlen und Abstimmungen.",
+            "b)  Sie berät und beschliesst Gesetze.",
+            "c)  Sie führt die Regierungsgeschäfte in der Schweiz.",
+            "d)  Sie fällt Gerichtsurteile in letzter Instanz."
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/37.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 38,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Wie setzt sich die Vereinigte Bundesversammlung zusammen?",
+        "options": [
+            "a)  aus den Mitgliedern des Nationalrats und Ständerats",
+            "b)  aus den Bundesrichterinnen und Bundesrichtern",
+            "c)  aus den Mitgliedern der kantonalen Regierungen",
+            "d)  aus den Parteipräsidentinnen und Parteipräsidenten"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/38.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 39,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Das Bundeshaus in Bern ist der Sitz …",
+        "options": [
+            "a)  des Nationalmuseums.",
+            "b)  der Bundesversammlung (Schweizer Parlament).",
+            "c)  der Universität.",
+            "d)  des Schweizer Fernsehens."
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/39.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 40,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Wie heisst die Exekutive in der Schweiz auf Bundesebene?",
+        "options": [
+            "a)  Grosser Rat",
+            "b)  Generalrat",
+            "c)  Bundesrat",
+            "d)  Landrat"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/40.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 41,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Wer wählt die sieben Mitglieder des Bundesrats?",
+        "options": [
+            "a)  die Parteipräsidentinnen und Parteipräsidenten",
+            "b)  die Stimmbürgerinnen und Stimmbürger in direkter Wahl",
+            "c)  der Rat der Ältesten",
+            "d)  Nationalrat und Ständerat"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/41.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 42,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Welche Funktion haben die Parteien in einer Demokratie?",
+        "options": [
+            "a)  Sie vertreten verschiedene Interessen und Anliegen der Bevölkerung.",
+            "b)  Sie wählen die Regierung.",
+            "c)  Sie kontrollieren die Medien.",
+            "d)  Sie vermitteln bei Streit zwischen verschiedenen Ämtern."
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/42.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 43,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Wie viele Unterschriften braucht es für eine Volksinitiative auf Bun- desebene?",
+        "options": [
+            "a)  30'000",
+            "b)  100'000",
+            "c)  500'000",
+            "d)  800'000"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/43.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 44,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Was ist die Aufgabe des Ständerates?",
+        "options": [
+            "a)  Er hat nur eine repräsentative Funktion.",
+            "b)  Er ist die höchste juristische Instanz.",
+            "c)  Er vertritt vor allem die Interessen der Kantone.",
+            "d)  Er koordiniert die Planung der Gemeinden."
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/44.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 45,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Was machen Nationalrat und Ständerat gemeinsam?",
+        "options": [
+            "a)  Sie entscheiden über internationale Verträge.",
+            "b)  Sie wählen die Mitglieder des Bundesrats und des Bundesgerichts.",
+            "c)  Sie entwerfen das Bundesbudget.",
+            "d)  Sie fällen im Bundesgericht Urteile."
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/45.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 46,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Wie oft pro Jahr stimmt das Stimmvolk normalerweise in Bundesange- legenheiten ab?",
+        "options": [
+            "a)  5",
+            "b)  3",
+            "c)  2",
+            "d)  4"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/46.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 47,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Wer beschliesst ein Grossteil der neuen Gesetze auf Bundesebene?",
+        "options": [
+            "a)  das Bundesgericht",
+            "b)  die Kantone",
+            "c)  der Nationalrat und der Ständerat",
+            "d)  der Bundesrat"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/47.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 48,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Wann ist eine Initiative auf Bundesebene angenommen?",
+        "options": [
+            "a)  Bei Ständemehr",
+            "b)  Bei Volksmehr",
+            "c)  Bei Volksmehr und Ständemehr",
+            "d)  Bei Volksmehr und mindestens einem Drittel der Stände"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/48.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 49,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Durch eine Volksinitiative kann …",
+        "options": [
+            "a)  der National- und Ständerat abgesetzt werden.",
+            "b)  die Bundesverfassung geändert werden.",
+            "c)  das Völkerrecht geändert werden.",
+            "d)  der Bundesrat ausgetauscht werden."
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/49.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 50,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Wie stimmen die meisten Stimmberechtigten ab?",
+        "options": [
+            "a)  per Gang an die Urne",
+            "b)  per Internet",
+            "c)  per Telefon",
+            "d)  per Brief"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/50.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 51,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "An welchem Wochentag finden nationale Wahlen und Abstimmungen statt?",
+        "options": [
+            "a)  Sonntag",
+            "b)  Mittwoch",
+            "c)  Montag",
+            "d)  Freitag"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/51.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 52,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Was ist eine wichtige Aufgabe des Bundesstaats?",
+        "options": [
+            "a)  Er sorgt für soziale Sicherheit.",
+            "b)  Er organisiert die Arbeit in Fabriken und Betrieben.",
+            "c)  Er garantiert günstigen Wohnraum für alle.",
+            "d)  Er gibt verschiedene Tageszeitungen in allen Landessprachen heraus."
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/52.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 53,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Was ist eine wichtige Aufgabe des Bundes?",
+        "options": [
+            "a)  Er fördert die Gründung von Vereinen.",
+            "b)  Er unterstützt die Gründung von Firmen.",
+            "c)  Er sorgt für die innere und äussere Sicherheit.",
+            "d)  Er unterhält eigene Spitäler und Kliniken."
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/53.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 54,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Was ist eine wichtige Aufgabe des Bundes?",
+        "options": [
+            "a)  Er finanziert die Herstellung von Autos.",
+            "b)  Er sorgt für den Schutz der Umwelt.",
+            "c)  Er bestimmt die Leitzinsen der Nationalbank.",
+            "d)  Er unterhält eigene Elektrizitätswerke."
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/54.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 55,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Welche ist die Schweizer Nationalfahne?",
+        "options": [
+            "a)",
+            "b)",
+            "c)",
+            "d)"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/55.md",
+        "question_image": null,
+        "option_images": [
+            "images/q55_a.png",
+            "images/q55_b.png",
+            "images/q55_c.png",
+            "images/q55_d.png"
+        ]
+    },
+    {
+        "id": 56,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Der Schweizer Bundesstaat besteht aus verschiedenen...",
+        "options": [
+            "a)  Bundesländern",
+            "b)  Kantonen.",
+            "c)  Distrikten.",
+            "d)  Provinzen."
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/56.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 57,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Wie viele Kantone hat der Schweizer Bundesstaat?",
+        "options": [
+            "a)  12 (10 Kantone und 2 Halbkantone)",
+            "b)  26 (20 Kantone und 6 Halbkantone)",
+            "c)  34 (28 Kantone und 6 Halbkantone)",
+            "d)  16 (12 Kantone und 4 Halbkantone)"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/57.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 58,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Wie viele politische Gemeinden gibt es in der Schweiz (Stand 2021)?",
+        "options": [
+            "a)  Etwa 50",
+            "b)  Etwa 200",
+            "c)  Etwa 2200",
+            "d)  Etwa 8000"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/58.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 59,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Die Schweiz ist ein föderalistischer Staat mit drei Staatsebenen. Was ist die unterste Ebene?",
+        "options": [
+            "a)  der Kanton",
+            "b)  die Gemeinde",
+            "c)  der Bezirk",
+            "d)  der Bund"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/59.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 60,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Die Schweiz ist ein föderalistischer Staat mit drei Staatsebenen. Was ist die oberste Ebene?",
+        "options": [
+            "a)  die Gemeinde",
+            "b)  der Kanton",
+            "c)  der Bund",
+            "d)  die Region"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/60.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 61,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Für was ist der Bund zuständig?",
+        "options": [
+            "a)  für die Organisation der Volksschule",
+            "b)  für die Aussenpolitik",
+            "c)  für den Erlass von Bauordnungen",
+            "d)  für die Wahl der Kantonsrichterinnen und Kantonsrichter"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/61.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 62,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Welche Staatsebene ist für das Militär zuständig?",
+        "options": [
+            "a)  Bund",
+            "b)  Kanton",
+            "c)  Bezirk",
+            "d)  Gemeinde"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/62.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 63,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Was sind die Landessprachen der Schweiz?",
+        "options": [
+            "a)  Französisch, Italienisch, Englisch, Deutsch",
+            "b)  Französisch, Italienisch, Rätoromanisch, Deutsch",
+            "c)  Französisch, Italienisch, Dialekte der Kantone und Rätoromanisch",
+            "d)  Deutsch, Französisch, Italienisch"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/63.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 64,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Was ist eine offizielle Landessprache in der Schweiz?",
+        "options": [
+            "a)  Französisch",
+            "b)  Englisch",
+            "c)  Portugiesisch",
+            "d)  Spanisch"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/64.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 65,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Wie viele offizielle Landessprachen gibt es in der Schweiz?",
+        "options": [
+            "a)  2",
+            "b)  3",
+            "c)  4",
+            "d)  8"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/65.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 66,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Was ist die vierte Landessprache der Schweiz?",
+        "options": [
+            "a)  Elsässisch",
+            "b)  Rätoromanisch",
+            "c)  Englisch",
+            "d)  Portugiesisch"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/66.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 67,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Wer darf in der Schweiz Gewalt gegen Menschen und Sachen ausüben (Gewaltmonopol)?",
+        "options": [
+            "a)  betroffene Bürgerinnen und Bürger",
+            "b)  die Parteien",
+            "c)  die Medien",
+            "d)  der Staat (Polizei, Militär)"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/67.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 68,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Wer hat auf Bundesebene die richterliche Gewalt (Judikative)?",
+        "options": [
+            "a)  die Parlamentarierinnen und Parlamentarier",
+            "b)  das Bundesgericht",
+            "c)  die Regierungen",
+            "d)  das Militär"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/68.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 69,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Wer hat auf Bundesebene die gesetzgebende Gewalt (Legislative)?",
+        "options": [
+            "a)  der Bundesrat",
+            "b)  der Militärrat",
+            "c)  das Bundesparlament (Nationalrat und Ständerat)",
+            "d)  das Bundesgericht"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/69.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 70,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Wer hat auf Bundesebene die ausführende Gewalt (Exekutive)?",
+        "options": [
+            "a)  der Bundesrat",
+            "b)  die Parteien",
+            "c)  das Bundesparlament (Nationalrat und Ständerat)",
+            "d)  das Bundesverwaltungsgericht"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/70.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 71,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Was bezeichnet man häufig als vierte Gewalt im Staat?",
+        "options": [
+            "a)  die Kirche",
+            "b)  die Verbände und Vereine",
+            "c)  die Medien (Zeitungen, Radio, Fernsehen)",
+            "d)  die Werbung"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/71.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 72,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Was ist die Aufgabe der Richterinnen und Richter?",
+        "options": [
+            "a)  Sie überwachen die Verwaltung.",
+            "b)  Sie fällen Gerichtsurteile.",
+            "c)  Sie verteidigen die Angeklagten.",
+            "d)  Sie verfassen Gesetze."
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/72.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 73,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Was ist eine Aufgabe der Polizei?",
+        "options": [
+            "a)  Sie hilft bei der Steuererklärung.",
+            "b)  Sie verfolgt Rechtsverletzungen.",
+            "c)  Sie erlässt neue Gesetze.",
+            "d)  Sie fällt Gerichtsurteile."
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/73.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 74,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Wer darf Kriminelle verhaften?",
+        "options": [
+            "a)  Zeuginnen und Zeugen eines Verbrechens",
+            "b)  der Gemeinderat",
+            "c)  die Polizei",
+            "d)  die Bürgerwehr"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/74.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 75,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Was bedeutet Gewaltenteilung?",
+        "options": [
+            "a)  Polizei und Militär dürfen beide Gewalt anwenden.",
+            "b)  Die Verteilung der Macht auf Staat und Kirche.",
+            "c)  Die Verteilung der Staatsgewalt auf verschiedene Staatsorgane wie Regierung, Parlament und Gerichte.",
+            "d)  Die Verteilung der Macht auf den Nationalrat und den Ständerat."
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/75.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 76,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Die Schweiz ist ein Rechtsstaat. Was bedeutet das?",
+        "options": [
+            "a)  Auch der Staat muss sich an die Gesetze halten.",
+            "b)  Die Gesetze gelten nur für die Personen, die diesen Gesetzen zugestimmt ha- ben.",
+            "c)  Die Gesetze gelten nur für Schweizer Bürgerinnen und Bürger.",
+            "d)  Die Gesetze gelten nicht für Politikerinnen und Politiker."
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/76.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 77,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Welches Grundrecht ist in der Bundesverfassung verankert?",
+        "options": [
+            "a)  der Waffenbesitz",
+            "b)  die Glaubens- und Gewissensfreiheit",
+            "c)  die persönliche Rache",
+            "d)  das Recht auf ein eigenes Haus"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/77.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 78,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Welches Grundrecht garantiert die Bundesverfassung?",
+        "options": [
+            "a)  die Meinungsfreiheit",
+            "b)  das Recht auf WLAN",
+            "c)  das Recht auf kostenlose Aus- und Weiterbildung",
+            "d)  das Halten von Haustieren"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/78.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 79,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Was wird durch die Glaubens- und Gewissensfreiheit garantiert?",
+        "options": [
+            "a)  freie Schulwahl",
+            "b)  Freizeit",
+            "c)  Versammlungsfreiheit",
+            "d)  Religionsfreiheit"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/79.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 80,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Frauen und Männer sind laut Verfassung und Gesetz in der Schweiz gleichberechtigt. Was heisst das?",
+        "options": [
+            "a)  Kochen ist Männersache.",
+            "b)  Frauen und Männer haben grundsätzlich die gleichen Rechte.",
+            "c)  In politischen Gremien müssen gleich viele Männer wie Frauen vertreten sein.",
+            "d)  Kindererziehung ist Frauensache."
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/80.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 81,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Was ist in der Schweiz verboten?",
+        "options": [
+            "a)  Man darf keine falschen Behauptungen über Personen öffentlich verbreiten.",
+            "b)  Man darf die Regierung nicht öffentlich kritisieren.",
+            "c)  Man darf eine geschlossene Ehe nicht auflösen.",
+            "d)  Man darf nicht an Demonstrationen teilnehmen."
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/81.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 82,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Jemand bekommt wegen seiner Hautfarbe oder seinem Geschlecht eine Arbeitsstelle nicht. Welches Grundrecht wird damit verletzt?",
+        "options": [
+            "a)  das Recht auf freie Meinungsäusserung",
+            "b)  die Niederlassungsfreiheit",
+            "c)  das Recht auf rechtsgleiche Behandlung (Diskriminierungsverbot)",
+            "d)  das Recht auf Bildung"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/82.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 83,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Welches Recht bekommen Personen erst mit der Einbürgerung?",
+        "options": [
+            "a)  Sie dürfen einem Verein beitreten.",
+            "b)  Sie dürfen an politischen Wahlen und Abstimmungen auf Bundesebene teilneh- men.",
+            "c)  Sie dürfen eine Wohnung kaufen.",
+            "d)  Sie dürfen den Arbeitsplatz frei wählen."
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/83.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 84,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Durch was wird der Persönlichkeits- oder Datenschutz verletzt?",
+        "options": [
+            "a)  Wenn der persönliche Computer nicht genügend geschützt ist.",
+            "b)  Wenn eine Person auf einer öffentlichen Strasse fotografiert wird.",
+            "c)  Wenn eine Zeitung über eine Person berichtet.",
+            "d)  Wenn private Informationen über einzelne Personen ohne gesetzliche Grund- lage oder ohne Zustimmung der Person veröffentlicht werden."
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/84.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 85,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Was verbietet die Schweizer Bundesverfassung?",
+        "options": [
+            "a)  Man darf im öffentlichen Raum keine religiösen Zeichen tragen.",
+            "b)  Man darf keine Sammelaktionen für notleidende Menschen durchführen.",
+            "c)  Es darf niemand gefoltert werden.",
+            "d)  Man darf nicht ohne Lohn arbeiten."
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/85.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 86,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Welches Recht ist in der Schweizer Bundesverfassung verankert?",
+        "options": [
+            "a)  Alle Menschen haben ein Recht auf gesunde und kostenlose Ernährung.",
+            "b)  Das persönliche Eigentum ist geschützt.",
+            "c)  Man darf Haustiere halten.",
+            "d)  Man darf kostenlos das Internet benutzen."
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/86.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 87,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Was ist in der Schweiz verboten?",
+        "options": [
+            "a)  die Arbeit des Bundesrats zu kritisieren",
+            "b)  ohne Bewilligung Velo zu fahren",
+            "c)  im öffentlichen Raum ein religiöses Zeichen zu tragen",
+            "d)  andere Menschen wegen ihrer Herkunft oder Religion öffentlich zu beschimpfen"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/87.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 88,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Wer muss in der Schweiz Militärdienst oder Zivilschutzdienst leisten?",
+        "options": [
+            "a)  junge Männer mit Schweizer Bürgerrecht",
+            "b)  Frauen und Männer im Alter von 20 Jahren, die mindestens 10 Jahre in der Schweiz gelebt haben",
+            "c)  Militärdienst ist für alle freiwillig",
+            "d)  junge Frauen und Männer mit einem technischen oder medizinischen Beruf"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/88.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 89,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Zwei Jugendliche werden wegen ihrer dunklen Hautfarbe nicht ins Schwimmbad hineingelassen. Gegen welches Grundrecht verstösst das?",
+        "options": [
+            "a)  gegen die freie Sportbetätigung",
+            "b)  gegen das Diskriminierungsverbot",
+            "c)  gegen die Meinungsfreiheit",
+            "d)  gegen die Versammlungsfreiheit"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/89.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 90,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Welche Pflicht gilt in der Schweiz nur für Männer?",
+        "options": [
+            "a)  Männer müssen bis zu einem bestimmten Alter Militärdienst oder Zivilschutz- dienst leisten.",
+            "b)  Männer müssen bei Bedarf ein politisches Amt übernehmen.",
+            "c)  Männer müssen für den Unterhalt der Familie sorgen.",
+            "d)  Männer müssen mehr Steuern und Krankenkassenprämien bezahlen."
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/90.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 91,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Was ist in einem Rechtsstaat verboten?",
+        "options": [
+            "a)  Gesetze zu kritisieren",
+            "b)  die Arbeit von demokratisch gewählten Behörden in Frage zu stellen",
+            "c)  Personen grundlos zu verhaften und einzusperren",
+            "d)  einer religiösen Gruppierung beizutreten"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/91.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 92,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Was geschieht in der Schweiz, wenn jemand eine Straftat begeht?",
+        "options": [
+            "a)  Wer gegen ein Gesetz verstossen hat, wird bestraft.",
+            "b)  Wer Opfer eines Verbrechens geworden ist, darf sich selber rächen.",
+            "c)  Wer sich selbst anzeigt, bleibt straffrei.",
+            "d)  Die Opfer eines Verbrechens können zwischen verschiedenen Strafen wählen."
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/92.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 93,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Welche Strafe verbietet die Bundesverfassung?",
+        "options": [
+            "a)  eine Gefängnisstrafe",
+            "b)  eine Geldstrafe",
+            "c)  die Todesstrafe",
+            "d)  gemeinnützige Arbeit"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/93.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 94,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "In der Schweiz gibt es verschiedene Gesetze. Welches regelt das Mie- ten von Wohnungen?",
+        "options": [
+            "a)  Obligationenrecht (OR)",
+            "b)  Mehrwertsteuergesetz (MWSTG)",
+            "c)  Strafgesetzbuch (StGB)",
+            "d)  Bundesgesetz über Schuldbetreibung und Konkurs (SchKG)"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/94.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 95,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "In der Schweiz gibt es verschiedene Gesetze. Was regelt das Zivilge- setzbuch (ZGB)?",
+        "options": [
+            "a)  Eheschliessungen und Scheidungen",
+            "b)  Firmengründungen",
+            "c)  Strafen bei Mord und Totschlag",
+            "d)  Staatsverträge"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/95.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 96,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "In der Schweiz gibt es verschiedene Gesetze. Welches regelt, ob je- mand ins Gefängnis muss?",
+        "options": [
+            "a)  Obligationenrecht (OR)",
+            "b)  Zivilgesetzbuch (ZGB)",
+            "c)  Strafgesetzbuch (StGB)",
+            "d)  Bundesgesetz über Schuldbetreibung und Konkurs (SchKG)"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/96.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 97,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Wie werden Richterinnen und Richter am Bundesgericht ernannt?",
+        "options": [
+            "a)  Durch die Kantonsparlamente. Jeder Kanton kann einen Richter stellen.",
+            "b)  Durch ein normales Bewerbungsverfahren mit Vorstellungsgespräch.",
+            "c)  Durch Wahl des Bundesparlaments.",
+            "d)  Der Bundesrat hat das Recht, Richter einzusetzen."
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/97.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 98,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Dürfen Schweizer Bürgerinnen und Bürger an andere Länder ausgelie- fert werden?",
+        "options": [
+            "a)  Nein. Dies ist unter keinen Umständen erlaubt.",
+            "b)  Ja, aber nur an Länder welche demokratisch organisiert sind.",
+            "c)  Ja, aber nur wenn die Straftat auch in der Schweiz strafbar ist.",
+            "d)  Grundsätzlich nicht. Ausgenommen für Prozesse vor internationalen Gerichten."
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/98.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 99,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Bund",
+        "question": "Von was hängt die individuelle Steuerbelastung ab?",
+        "options": [
+            "a)  vom steuerbaren Einkommen und Vermögen",
+            "b)  von der Mitgliedschaft bei einer Partei",
+            "c)  von der Nationalität",
+            "d)  von der Mitgliedschaft in einer Behörde"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/99.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 100,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Kanton",
+        "question": "Wie viele Regierungsräte hat der Kanton Zürich?",
+        "options": [
+            "a)  3",
+            "b)  250",
+            "c)  7",
+            "d)  180"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/100.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 101,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Kanton",
+        "question": "Wie heisst eine Direktion des Kanton Zürichs?",
+        "options": [
+            "a)  Tourismusdirektion",
+            "b)  Baudirektion",
+            "c)  Ernährungsdirektion",
+            "d)  Militärdirektion"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/101.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 102,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Kanton",
+        "question": "Wie heisst in der Stadt Zürich die Exekutive?",
+        "options": [
+            "a)  Stadtrat",
+            "b)  Nationalrat",
+            "c)  Regierungsrat",
+            "d)  Bundesrat"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/102.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 103,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Kanton",
+        "question": "Was ist eine Aufgabe des Kantons Zürich?",
+        "options": [
+            "a)  Abschluss von Verträgen mit der Europäischen Union",
+            "b)  Organisation der Universität",
+            "c)  Digitalisierung der Bundesverwaltung",
+            "d)  Organisation der Armee"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/103.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 104,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Kanton",
+        "question": "Wie viele Bezirke gibt es im Kanton Zürich?",
+        "options": [
+            "a)  12",
+            "b)  18",
+            "c)  7",
+            "d)  25"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/104.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 105,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Kanton",
+        "question": "Wie können im Kanton Zürich auch Personen ohne Schweizer Pass po- litisch aktiv werden?",
+        "options": [
+            "a)  mit einem Referendum.",
+            "b)  mit einer Petition.",
+            "c)  mit einem Einsitz in die Regierung.",
+            "d)  mit einem parlamentarischen Kommissionsantrag."
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/105.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 106,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Kanton",
+        "question": "Wie viele Mitglieder hat die Regierung des Kantons Zürich?",
+        "options": [
+            "a)  7",
+            "b)  3",
+            "c)  5",
+            "d)  je nach Aufgaben, die anstehen."
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/106.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 107,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Kanton",
+        "question": "Für was sind die Kantone vor allem zuständig?",
+        "options": [
+            "a)  für die Leitung der kantonalen Verwaltung und für kantonale Gesetze",
+            "b)  für die Innen- und Aussenpolitik auf nationaler Ebene",
+            "c)  für die nationale Verteidigung (Militär)",
+            "d)  für die Geldpolitik und die Zölle"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/107.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 108,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Kanton",
+        "question": "Wie oft werden die Mitglieder des Kantonsrats gewählt?",
+        "options": [
+            "a)  alle 6 Jahre",
+            "b)  alle 2 Jahre",
+            "c)  alle 7 Jahre",
+            "d)  alle 4 Jahre"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/108.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 109,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Kanton",
+        "question": "Wie heisst die Exekutive im Kanton Zürich?",
+        "options": [
+            "a)  Landammann",
+            "b)  Regierungsrat",
+            "c)  Ständerat",
+            "d)  Es gibt keine Exekutive."
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/109.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 110,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Kanton",
+        "question": "Welches ist das Wappen des Kantons Zürich?",
+        "options": [
+            "a)",
+            "b)",
+            "c)",
+            "d)"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/110.md",
+        "question_image": null,
+        "option_images": [
+            "images/q110_a.png",
+            "images/q110_b.png",
+            "images/q110_c.png",
+            "images/q110_d.png"
+        ]
+    },
+    {
+        "id": 111,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Kanton",
+        "question": "Wie viele Personen sind für den Kanton Zürich im Ständerat?",
+        "options": [
+            "a)  13",
+            "b)  5",
+            "c)  2",
+            "d)  7"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/111.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 112,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Kanton",
+        "question": "Wie heisst das Parlament im Kanton Zürich?",
+        "options": [
+            "a)  Landtag",
+            "b)  Grosser Rat",
+            "c)  Kantonsrat",
+            "d)  Regierungsrat"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/112.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 113,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Kanton",
+        "question": "Wie werden die Mitglieder der Zürcher Regierung bestimmt?",
+        "options": [
+            "a)  Sie werden von den Parteien ernannt.",
+            "b)  Sie werden vom Kantonsrat gewählt.",
+            "c)  Sie werden auf Parteiversammlungen gewählt.",
+            "d)  Sie werden von den Zürcher Stimmbürgerinnen und Stimmbürgern gewählt."
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/113.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 114,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Kanton",
+        "question": "Wer stellt im Kanton Zürich die Führerausweise für Autofahrerinnen und Autofahrer aus?",
+        "options": [
+            "a)  die Gemeinde",
+            "b)  das Strassenverkehrsamt",
+            "c)  die Verkehrsverbände",
+            "d)  die Verkehrspolizei"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/114.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 115,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Kanton",
+        "question": "Wer darf Motorfahrzeuge für den Verkehr zulassen?",
+        "options": [
+            "a)  die Gemeinde",
+            "b)  die grossen Autogaragen",
+            "c)  das Strassenverkehrsamt",
+            "d)  die Verkehrspolizei"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/115.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 116,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Kanton",
+        "question": "Wie werden die Mitglieder des Kantonsrats bestimmt?",
+        "options": [
+            "a)  durch Wahlen",
+            "b)  durch Ernennung von der Kantonsregierung",
+            "c)  durch das eidgenössische Parlament",
+            "d)  durch die Ständeräte des Kantons"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/116.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 117,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Gemeinde",
+        "question": "Was passiert an einer Gemeindeversammlung?",
+        "options": [
+            "a)  Die Stimmbürgerinnen und Stimmbürger entscheiden über das Budget.",
+            "b)  Die Einwohnerinnen und Einwohner feiern ein Fest.",
+            "c)  Die Stimmbürgerinnen und Stimmbürger wählen den Chef oder die Chefin der Feuerwehr.",
+            "d)  Die Stimmbürgerinnen und Stimmbürger beschliessen neue nationale Gesetze."
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/117.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 118,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Gemeinde",
+        "question": "Wer wählt den Gemeinderat der Stadt Zürich?",
+        "options": [
+            "a)  der Kantonsrat",
+            "b)  der Regierungsrat",
+            "c)  der Bezirksrat",
+            "d)  das Volk"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/118.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 119,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Gemeinde",
+        "question": "Was ist eine Aufgabe von Zürcher Gemeinden?",
+        "options": [
+            "a)  Sie bauen Autobahnen.",
+            "b)  Sie führen das Militär.",
+            "c)  Sie verkaufen Versicherungen.",
+            "d)  Sie organisieren die Primarschule."
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/119.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 120,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Gemeinde",
+        "question": "Wer erteilt die Baubewilligung für ein Einfamilienhaus im Kanton Zü- rich?",
+        "options": [
+            "a)  der Nachbar",
+            "b)  die Gemeinde",
+            "c)  das Quartierkomitee",
+            "d)  die Architektin"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/120.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 121,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Gemeinde",
+        "question": "Für was sind die Gemeinden zuständig?",
+        "options": [
+            "a)  für die Organisation von privaten Geburtstagsfesten",
+            "b)  für die Aussenpolitik",
+            "c)  für die lokale Raumplanung",
+            "d)  für das Militär"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/121.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 122,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Gemeinde",
+        "question": "Wer zählt bei politischen Abstimmungen die Stimmzettel?",
+        "options": [
+            "a)  das Militärbüro",
+            "b)  das Wahlbüro",
+            "c)  die Stimmbürgerinnen und Stimmbürger selber",
+            "d)  die Polizei"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/122.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 123,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Gemeinde",
+        "question": "Bürgerinnen und Bürger können auf Gemeindeebene politisch ent- scheiden, indem sie ...",
+        "options": [
+            "a)  regelmässig an Volksfesten teilnehmen.",
+            "b)  die Steuern rechtzeitig bezahlen.",
+            "c)  in Vereinen mitwirken.",
+            "d)  an Wahlen und Abstimmungen teilnehmen."
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/123.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 124,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Gemeinde",
+        "question": "Wer leitet die Verwaltung und plant die Ziele öffentlichen Handelns der Stadt Zürich?",
+        "options": [
+            "a)  die Stadtkanzlei",
+            "b)  der Stadtrat",
+            "c)  die Einwohnerkontrolle",
+            "d)  die Einwohnerinnen und Einwohner der Stadt"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/124.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 125,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Gemeinde",
+        "question": "Wofür ist die Gemeinde zuständig?",
+        "options": [
+            "a)  Fachhochschulen",
+            "b)  Geldpolitik",
+            "c)  Zivildienst",
+            "d)  Einwohnerkontrolle"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/125.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 126,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Gemeinde",
+        "question": "Wie viele Gemeinden gibt es im Kanton Zürich?",
+        "options": [
+            "a)  zwischen 30 und 50",
+            "b)  zwischen 150 und 170",
+            "c)  zwischen 420 und 440",
+            "d)  zwischen 300 und 320"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/126.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 127,
+        "category": "Demokratie und Föderalismus",
+        "subcategory": "Gemeinde",
+        "question": "Wie nennt man die oberste Repräsentantin oder den obersten Reprä- sentanten in kleineren Zürcher Gemeinden?",
+        "options": [
+            "a)  Bürgermeisterin oder Bürgermeister",
+            "b)  Gemeindeammann",
+            "c)  Bezirksamtmann",
+            "d)  Gemeindepräsidentin oder Gemeindepräsident"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/127.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 128,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Die Steuererklärung ...",
+        "options": [
+            "a)  beschreibt das Vorgehen bei Abgabe der Steuer.",
+            "b)  weist die finanzielle Situation des Steuerzahlenden gegenüber der Steuerbe- hörde aus.",
+            "c)  belegt gegenüber der Steuerbehörde die Lotteriegewinne.",
+            "d)  beschreibt, wie man die Formulare für die Steuerbehörde ausfüllen muss."
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/128.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 129,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Was ist ein Arbeitszeugnis?",
+        "options": [
+            "a)  eine Liste aller bisherigen Arbeitsstellen eines Arbeitsnehmers",
+            "b)  eine vom Arbeitnehmer bewertete Leistung des Arbeitsgebers",
+            "c)  ein Vertrag zwischen Arbeitnehmer-Verbänden und Arbeitgeber-Verbänden über die Arbeitsbedingungen in einer bestimmten Branche",
+            "d)  vom Arbeitgeber ausgestellte Urkunde, die Auskunft über die Leistung und das Verhalten des Arbeitnehmers macht"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/129.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 130,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Welche Versicherung im Gesundheitswesen ist Pflicht?",
+        "options": [
+            "a)  die Versicherung für Alternativmedizin",
+            "b)  die zahnmedizinische Versicherung",
+            "c)  die Zusatzversicherung",
+            "d)  die obligatorische Krankenpflegeversicherung"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/130.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 131,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Arbeitnehmende und Selbständigerwerbende mit Kindern haben An- spruch auf …",
+        "options": [
+            "a)  Kinderbegünstigung.",
+            "b)  Elternentlastung.",
+            "c)  Familienzulage.",
+            "d)  Finanzhilfe."
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/131.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 132,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Der Zivildienst in der Schweiz ist ...",
+        "options": [
+            "a)  für alle Männer und Frauen obligatorisch.",
+            "b)  ein freiwilliger Einsatz für die Gesellschaft.",
+            "c)  ein Ersatz zum Militärdienst.",
+            "d)  ein Freifach der obligatorischen Schule."
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/132.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 133,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Welche Aussage zur obligatorischen Versicherung in einer Kranken- kasse in der Schweiz ist richtig?",
+        "options": [
+            "a)  Jede Krankenkasse bestimmt ihre Leistungen selbst.",
+            "b)  Man kann die Krankenkasse frei wählen.",
+            "c)  Es ist freiwillig, eine Krankenkasse zu haben.",
+            "d)  Der Kanton kann seinen Einwohnerinnen und Einwohnern eine Krankenkasse zu- teilen."
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/133.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 134,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Wann dürfen Einwohnerinnen und Einwohner ohne Schweizer Pass an nationalen Abstimmungen teilnehmen?",
+        "options": [
+            "a)  nur bei Abstimmungen über Volksinitiativen",
+            "b)  nur bei nationalen Referenden",
+            "c)  Sie dürfen gar nicht abstimmen.",
+            "d)  nur bei den Abstimmungen Ende Jahr"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/134.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 135,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Für was steht in der Schweiz die Nummer 117?",
+        "options": [
+            "a)  für den Polizeinotruf",
+            "b)  für die Auskunft",
+            "c)  für die Abfallentsorgungsstelle",
+            "d)  für den Pannendienst"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/135.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 136,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Was gehört zum Schweizer Sozialversicherungs-Systems?",
+        "options": [
+            "a)  Schutz vor Folgen bei Krankheit und Unfall",
+            "b)  Schutz vor Einbrechern",
+            "c)  Schutz vor Hochwasser und Unwetter",
+            "d)  Schutz vor privatem Kommunikationsmissbrauch"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/136.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 137,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Für was gibt es in der Schweiz eine Sozialversicherung?",
+        "options": [
+            "a)  wenn man einen Zahn verliert",
+            "b)  wenn man die Stelle verliert",
+            "c)  wenn das Velo gestohlen wird",
+            "d)  wenn man sich scheiden lässt"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/137.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 138,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Was ist eine Schweizer Sozialversicherung?",
+        "options": [
+            "a)  Schulvorsorge",
+            "b)  Jugend- und Freizeitvorsorge",
+            "c)  Alters-, Hinterlassenen- und Invalidenversicherung (AHV/IV)",
+            "d)  Scheidungsvorsorge"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/138.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 139,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Was ist die erste Säule der Altersvorsorge?",
+        "options": [
+            "a)  das bedingungslose Grundeinkommen",
+            "b)  die Pensionskasse",
+            "c)  der Grundpfeiler des Schweizer Parlamentsgebäudes",
+            "d)  die AHV (Alters-, Hinterlassenen- und Invalidenversicherung)"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/139.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 140,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Was ist die zweite Säule der Altersvorsorge?",
+        "options": [
+            "a)  ein Denkmal auf dem Bundesplatz",
+            "b)  die Pensionskasse",
+            "c)  die Krankenversicherung",
+            "d)  eine Erbschaft"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/140.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 141,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Was ist die dritte Säule der Altersvorsorge?",
+        "options": [
+            "a)  die private Vorsorge",
+            "b)  der Dienstleistungssektor",
+            "c)  die Invalidenversicherung",
+            "d)  der Erwerbsersatz"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/141.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 142,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Für was setzt sich Amnesty International ein?",
+        "options": [
+            "a)  für die Senkung des CO2",
+            "b)  für die Artenvielfalt",
+            "c)  für das Tierwohl",
+            "d)  für die Achtung der Menschenrechte"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/142.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 143,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Wer setzt sich für die Rechte von Arbeitnehmenden ein?",
+        "options": [
+            "a)  Kirchen",
+            "b)  Gewerkschaften",
+            "c)  Spitäler",
+            "d)  Schulen"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/143.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 144,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "In der Schweiz sind seit 2002 Abtreibungen mit der Fristenlösung ge- regelt. Was bedeutet das?",
+        "options": [
+            "a)  Eine Frau darf bis zur 12. Woche der Schwangerschaft frei entscheiden, ob sie das Kind behalten will.",
+            "b)  Eine Frau braucht die Erlaubnis ihres Ehemannes, um abzutreiben.",
+            "c)  Abtreibung ist in jedem Fall verboten.",
+            "d)  Abtreibung ist nur erlaubt, wenn die Eltern nicht verheiratet sind."
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/144.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 145,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Was bedeutet AHV?",
+        "options": [
+            "a)  Alters- und Hinterlassenenversicherung",
+            "b)  Auto- und Heimreiseversicherung",
+            "c)  Arbeits- und Haushaltsversicherung",
+            "d)  Amt für Hausverwaltung"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/145.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 146,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Welche staatliche Unterstützung bekommen alle Familien in der Schweiz?",
+        "options": [
+            "a)  keine Unterstützung",
+            "b)  kostenlose Zugfahrten und Busfahrten",
+            "c)  Stipendien für Jugendliche in Ausbildung",
+            "d)  Kinderzulagen"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/146.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 147,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Welche Versicherung ist in der Schweiz obligatorisch?",
+        "options": [
+            "a)  die Alters- und Hinterlassenenversicherung (AHV)",
+            "b)  die Jugendversicherung (JV)",
+            "c)  die Lebensversicherung (LV)",
+            "d)  die Geburtenversicherung (GV)"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/147.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 148,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Wenn man mit der Steuerrechnung nicht einverstanden ist, ...",
+        "options": [
+            "a)  bezahlt man vorläufig nur die Hälfte des Betrags.",
+            "b)  muss man sie an die Steuerbehörden zurück schicken.",
+            "c)  muss man sich bei der Polizei melden.",
+            "d)  kann man bei der Steuerbehörde schriftlich seine Einwände dagegen mitteilen."
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/148.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 149,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Wie unterstützt der Staat in der Schweiz die Familien?",
+        "options": [
+            "a)  Es gibt keine Unterstützung.",
+            "b)  mit kostenlosem Internet",
+            "c)  mit kostengünstigen Lebensmitteln",
+            "d)  mit Steuerabzügen"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/149.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 150,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Was finanziert der Staat mit Steuergeldern?",
+        "options": [
+            "a)  Arztpraxen",
+            "b)  Kinos",
+            "c)  Schulen",
+            "d)  Hotels"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/150.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 151,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Was ist eine Sozialversicherung in der Schweiz?",
+        "options": [
+            "a)  die Auto- und Insassenversicherung (AIV)",
+            "b)  die Invalidenversicherung (IV)",
+            "c)  die Diebstahlversicherung (DV)",
+            "d)  die Bau- und Feuerversicherung (BFV)"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/151.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 152,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Was wird Angestellten direkt vom Lohn abgezogen? Der Beitrag für die ...",
+        "options": [
+            "a)  Auto- und Unfallversicherung (AUV).",
+            "b)  Arbeitslosenversicherung (ALV).",
+            "c)  Diebstahlversicherung (DV).",
+            "d)  Brandschutzversicherung (BSV)."
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/152.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 153,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Was ist das RAV?",
+        "options": [
+            "a)  Regionales Arbeitsvermittlungszentrum",
+            "b)  Rechtsstelle für Allgemeine Versicherungen",
+            "c)  Institut für Rechtsfragen",
+            "d)  Rentenanstalt"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/153.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 154,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Was bedeutet die Abkürzung IV?",
+        "options": [
+            "a)  Interessensvertretung",
+            "b)  Internationales Verfahren",
+            "c)  Inakzeptables Vorkommen",
+            "d)  Invalidenversicherung"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/154.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 155,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Wer muss sich bei einer Krankenkasse versichern lassen?",
+        "options": [
+            "a)  niemand",
+            "b)  nur Arbeitnehmerinnen und Arbeitnehmer",
+            "c)  nur Kinder und ältere Menschen",
+            "d)  alle Einwohnerinnen und Einwohner"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/155.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 156,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Wer übernimmt die Spitalkosten bei einem schweren Arbeitsunfall?",
+        "options": [
+            "a)  die betroffene Person selbst",
+            "b)  die Berufsunfallversicherung",
+            "c)  die Gewerkschaft",
+            "d)  die Arbeitgeberin oder der Arbeitgeber"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/156.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 157,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Welche Versicherung ist in der Schweiz obligatorisch?",
+        "options": [
+            "a)  Haftpflichtversicherung",
+            "b)  Krankenversicherung",
+            "c)  Arbeitsversicherung",
+            "d)  Vermögensversicherung"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/157.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 158,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Was ist das BAG?",
+        "options": [
+            "a)  die Bereitstellung allgemeiner Gesundheitsleistungen",
+            "b)  das Bundesamt für Gesundheit",
+            "c)  das Bundesamt für allgemeine Grundversorgung",
+            "d)  das Kontrollorgan des Bundes für allgemeine Grundversicherungen"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/158.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 159,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Für was steht in der Schweiz die Nummer 144?",
+        "options": [
+            "a)  für den Sanitätsnotruf",
+            "b)  für die Feuerwehrzentrale",
+            "c)  für die Polizeizentrale",
+            "d)  für die Auskunft"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/159.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 160,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Ab wann muss ein Kind in der Schweiz eine Krankenversicherung haben?",
+        "options": [
+            "a)  ab spätestens einem Jahr nach der Geburt",
+            "b)  ab Schuleintritt",
+            "c)  ab spätestens drei Monaten nach der Geburt",
+            "d)  Ein Kind braucht keine eigene Krankenversicherung."
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/160.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 161,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Wie viele Jahre dauert in der Schweiz die obligatorische Schulzeit?",
+        "options": [
+            "a)  11 Jahre",
+            "b)  13 Jahre",
+            "c)  8 Jahre",
+            "d)  6 Jahre"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/161.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 162,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Wer entscheidet darüber, in welche Klasse ein Kind in der Primar- schule kommt?",
+        "options": [
+            "a)  die Eltern",
+            "b)  die Schulleitung oder die Schulpflege",
+            "c)  die Kinderärztin oder der Kinderarzt",
+            "d)  die Kinder selbst"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/162.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 163,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Die Erziehung der Kinder ist vor allem Aufgabe …",
+        "options": [
+            "a)  des Staats.",
+            "b)  der Grosseltern.",
+            "c)  der Eltern.",
+            "d)  der Schulen."
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/163.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 164,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Was ist im Schweizer Bildungssystem obligatorisch?",
+        "options": [
+            "a)  Weiterbildungskurse nach der Berufslehre",
+            "b)  Kindertagesstätte",
+            "c)  Maturitätsschule",
+            "d)  Primarschule"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/164.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 165,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Eine Angestellte darf nicht entlassen werden, wenn sie ...",
+        "options": [
+            "a)  immer pünktlich war.",
+            "b)  die Kündigung ablehnt.",
+            "c)  schwanger ist.",
+            "d)  schon lange im Betrieb gearbeitet hat."
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/165.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 166,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Gewerkschaften vertreten die Interessen von ...",
+        "options": [
+            "a)  Arbeitgeberinnen und Arbeitgebern.",
+            "b)  Arbeitnehmerinnen und Arbeitnehmern.",
+            "c)  Jugendlichen.",
+            "d)  Betrieben."
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/166.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 167,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Für welchen Streitfall ist das Arbeitsgericht zuständig?",
+        "options": [
+            "a)  Wenn Arbeitnehmende die Erbschaftssteuer nicht bezahlen.",
+            "b)  Wenn Arbeitnehmenden ohne Grund gekündigt wird",
+            "c)  Wenn Arbeitnehmende ein Problem mit einer Nachbarin oder einem Nachbarn haben.",
+            "d)  Wenn Arbeitnehmende finanzielle Schwierigkeiten in der Familie haben, diese jedoch nichts mit dem Betrieb zu tun hat."
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/167.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 168,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "An wen können sich Arbeitnehmerinnen und Arbeitnehmer bei arbeits- rechtlichen Fragen wenden?",
+        "options": [
+            "a)  an Anwälte, Gewerkschaften und Arbeitsgerichte",
+            "b)  an die Steuerverwaltung",
+            "c)  an die Polizei und die Einwohnerkontrolle der Gemeinde",
+            "d)  an die Kirchgemeinde und den Zivilschutz"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/168.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 169,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Was muss man machen, wenn man ein Arbeitsverhältnis regulär been- den will?",
+        "options": [
+            "a)  warten, bis die Chefin oder der Chef aus den Ferien zurück ist",
+            "b)  den Arbeitsplatz räumen und dann dem Arbeitsplatz fern bleiben",
+            "c)  den Arbeitsvertrag vernichten",
+            "d)  mit einem eingeschriebenen Brief kündigen oder den Eingang der Kündigung schriftlich bestätigen lassen"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/169.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 170,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Economiesuisse vertritt die Interessen ...",
+        "options": [
+            "a)  der Angestellten.",
+            "b)  der Unternehmen.",
+            "c)  des Gastgewerbes.",
+            "d)  der Handwerkerinnen und Handwerker."
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/170.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 171,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Was ist in einem Arbeitsvertrag unter anderem geregelt? Es ist gere- gelt, ...",
+        "options": [
+            "a)  welche Krankenkasse man wählen muss.",
+            "b)  wie hoch die Altersrente ist.",
+            "c)  wie die Freizeit gestaltet wird.",
+            "d)  wie hoch der Lohn ist."
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/171.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 172,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Was kann man tun, wenn die Arbeitgeberin oder der Arbeitgeber ohne Grund zu wenig Lohn ausbezahlt?",
+        "options": [
+            "a)  Es gibt keine rechtlichen Möglichkeiten.",
+            "b)  Man kann bis zum Vertragsende nicht mehr zur Arbeit gehen.",
+            "c)  Man kann an das Arbeitsgericht gelangen.",
+            "d)  Man kann Anzeige bei der Polizei machen."
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/172.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 173,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Was ist ein Berufsbildungszentrum?",
+        "options": [
+            "a)  eine Arbeitsvermittlungsstelle",
+            "b)  ein Standort, an dem unterschiedliche Angebote zur beruflichen Bildung beitra- gen",
+            "c)  eine Fachhochschule",
+            "d)  ein arbeitstechnisches Forschungszentrum"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/173.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 174,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Welcher Feiertag gilt nach Gesetz für die ganze Schweiz?",
+        "options": [
+            "a)  1. August",
+            "b)  Auffahrt",
+            "c)  Karfreitag",
+            "d)  1. Mai"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/174.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 175,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Was ist das ordentliche Rentenalter der Schweiz?",
+        "options": [
+            "a)  63 Jahre bei Frauen und Männern",
+            "b)  64 Jahre bei Frauen und Männern",
+            "c)  65 Jahre bei Frauen und Männern",
+            "d)  66 Jahre bei Frauen und Männern"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/175.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 176,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Wer bezahlt keine Prämien für Arbeitslosenversicherung?",
+        "options": [
+            "a)  Personen in der Berufsausbildung",
+            "b)  Pensionierte",
+            "c)  Arbeitnehmerinnen und Arbeitnehmer",
+            "d)  alle Personen ab 50 Jahren"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/176.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 177,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Wo findet man Informationen über Lehrstellen, Beruf und Arbeit?",
+        "options": [
+            "a)  auf der Steuerverwaltung",
+            "b)  im Bundesarchiv",
+            "c)  im Staatssekretariat für Bildung, Forschung und Innovation",
+            "d)  im Berufsinformationszentrum"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/177.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 178,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Wer ist der wichtigste Handelspartner der Schweiz (Stand 2017)?",
+        "options": [
+            "a)  EU",
+            "b)  USA",
+            "c)  China",
+            "d)  Russland"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/178.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 179,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Wann hat man als Arbeitnehmerin oder Arbeitnehmer Anrecht auf be- zahlte freie Stunden oder Tage am Arbeitsplatz?",
+        "options": [
+            "a)  bei Stromausfall",
+            "b)  für die Ausübung eines öffentlichen Amtes",
+            "c)  für die Erledigung von Administration auf der Bank oder Post",
+            "d)  bei der Einschulung der eigenen Kinder"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/179.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 180,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Was bedeutet MWST?",
+        "options": [
+            "a)  Meinungsfreiheit",
+            "b)  mittlerer Wohlstand",
+            "c)  Mehrwertsteuer",
+            "d)  Mass für Wasserstand in Flüssen"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/180.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 181,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Welche Aussage zum Mutterschaftsurlaub in der Schweiz ist richtig?",
+        "options": [
+            "a)  Der Mutterschaftsurlaub beträgt 20 Wochen.",
+            "b)  Die normalen Ferien nach der Geburt des Kindes muss man zuerst aufbrau- chen. Danach gibt es Mutterschaftsurlaub.",
+            "c)  Den Mutterschaftsurlaub dürfen Frauen im Alter von 20 bis 50 Jahren nur ein- mal beziehen.",
+            "d)  Jede Frau, die arbeitet und ein Kind bekommt, hat das Recht auf Mutterschaftsur- laub."
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/181.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 182,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Was ist in der Schweiz verboten? Es ist verboten, …",
+        "options": [
+            "a)  als Mann und Frau unverheiratet zusammen zu leben.",
+            "b)  als erwachsene Person mit den Eltern zusammen zu leben.",
+            "c)  als Mann mit zwei Frauen zur selben Zeit verheiratet zu sein.",
+            "d)  als Mann für seine Kinder allein zu sorgen."
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/182.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 183,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Was regelt der Mietvertrag für eine Wohnung?",
+        "options": [
+            "a)  den Wohnstandard",
+            "b)  die Rechte und Pflichten der Vertragspartner",
+            "c)  was gekocht werden darf",
+            "d)  wie die Wohnung eingerichtet werden muss"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/183.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 184,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Unter welchen Voraussetzungen darf man in der Schweiz heiraten?",
+        "options": [
+            "a)  Die Braut muss schwanger sein.",
+            "b)  Man muss 18 Jahre alt und urteilsfähig sein.",
+            "c)  Man muss über ein Mindesteinkommen verfügen.",
+            "d)  Die Eltern müssen einverstanden sein."
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/184.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 185,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Wer kann einen Antrag auf Scheidung stellen?",
+        "options": [
+            "a)  nur der Ehemann",
+            "b)  die Kinder der Eheleute",
+            "c)  die Ehefrau oder der Ehemann oder beide zusammen",
+            "d)  nur die Ehefrau"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/185.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 186,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Wer muss beim Zivilstandsamt den Heiratswillen anmelden?",
+        "options": [
+            "a)  nur der Mann allein",
+            "b)  nur die Eltern",
+            "c)  Das verlobte Paar gemeinsam",
+            "d)  nur die Frau allein"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/186.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 187,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Wen muss man auf begründetes Verlangen in die eigene Wohnung las- sen?",
+        "options": [
+            "a)  die Pöstlerin oder den Pöstler",
+            "b)  die Vermieterin oder den Vermieter",
+            "c)  Personen, die für ein öffentliches Amt in der Gemeinde kandidieren",
+            "d)  die Arbeitgeberin oder den Arbeitgeber"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/187.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 188,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Was ist der Mieterinnen- und Mieterverband?",
+        "options": [
+            "a)  eine Schlichtungsstelle des Bundes in Mietfragen",
+            "b)  ein Wohnungsvermittlungsinstitut",
+            "c)  eine Interessensvertretung der Mieterinnen und Mieter",
+            "d)  ein Zusammenschluss aller Mieterinnen und Mieter der Schweiz"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/188.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 189,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Was ist eine Voraussetzung für eine Eheschliessung in der Schweiz?",
+        "options": [
+            "a)  Beide Partner müssen mindestens 16 Jahre alt sein.",
+            "b)  Die Partner müssen bereits in einer eingetragenen Partnerschaft leben.",
+            "c)  Die Partner müssen den gleichen Wohnsitz haben.",
+            "d)  Die Partner dürfen nicht eng verwandt sein."
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/189.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 190,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Wann kann der Fahrausweis entzogen werden?",
+        "options": [
+            "a)  bei unerlaubtem Hupen",
+            "b)  bei Fahren unter Einfluss von Alkohol oder Drogen",
+            "c)  bei falschem Parkieren",
+            "d)  bei Fahren bei starkem Nebel"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/190.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 191,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Welchen Nachnamen bekommt ein Kind von verheirateten Eltern?",
+        "options": [
+            "a)  immer einen Doppelnamen mit dem Namen der Mutter zuerst",
+            "b)  immer den Namen des Vaters",
+            "c)  immer den Namen der Mutter",
+            "d)  muss von den Eltern ohne gemeinsamen Familiennamen bei der Heirat ent- schieden werden"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/191.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 192,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Besitzer eines Hundes müssen für ihren Hund …",
+        "options": [
+            "a)  einen Namen haben.",
+            "b)  eine Geburtsurkunde besitzen.",
+            "c)  Hundesteuern zahlen.",
+            "d)  eine Krankenversicherung abschliessen."
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/192.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 193,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Wann kann jemand sogenannte Ergänzungsleistungen beziehen?",
+        "options": [
+            "a)  Wenn man eine Lehrstelle in einem Betrieb hat.",
+            "b)  Wenn man den Mindestlohn nicht erreicht.",
+            "c)  Wenn man trotz IV- oder AHV-Rente das Existenzminimum nicht erreicht.",
+            "d)  Wenn man arbeitslos ist."
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/193.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 194,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Wo muss man in der Schweiz obligatorisch Mitglied sein?",
+        "options": [
+            "a)  in einer Partei",
+            "b)  in einem Sportverein",
+            "c)  in einer Krankenkasse",
+            "d)  in einem Automobilclub oder Veloclub"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/194.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 195,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Bund",
+        "question": "Wer darf einen Verein gründen?",
+        "options": [
+            "a)  nur Personen mit einem sportlichen Leistungsausweis",
+            "b)  nur Personen ab einem bestimmten Einkommen",
+            "c)  jede Person in der Schweiz",
+            "d)  alle Frauen und Männer ab 21 Jahren"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/195.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 196,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Kanton",
+        "question": "Was gehört zu den wichtigsten Kantonssteuern und Gemeindesteu- ern?",
+        "options": [
+            "a)  Vermögenssteuer",
+            "b)  Tabaksteuer",
+            "c)  Privatsteuer",
+            "d)  Handysteuer"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/196.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 197,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Kanton",
+        "question": "Was gehört zu den wichtigsten Kantonssteuern und Gemeindesteuern?",
+        "options": [
+            "a)  Verrechnungssteuer",
+            "b)  Alkoholsteuer",
+            "c)  Zölle",
+            "d)  Einkommenssteuer"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/197.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 198,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Kanton",
+        "question": "Wer ist in der Schweiz in erster Linie für die Volksschule verantwortlich?",
+        "options": [
+            "a)  die Bundesschulverwaltung",
+            "b)  die Kantone und Gemeinden",
+            "c)  die Schulkonferenz der Kantone",
+            "d)  der Volksschulrat"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/198.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 199,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Kanton",
+        "question": "Wann beginnt die obligatorische Schulzeit im Kanton Zürich?",
+        "options": [
+            "a)  Kindergarten",
+            "b)  Primarschule",
+            "c)  Spielgruppe",
+            "d)  Einführungsklasse"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/199.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 200,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Gemeinde",
+        "question": "Was ist ein Quartierverein?",
+        "options": [
+            "a)  Ein Verein, der die Rechte eines Quartiers gegenüber dem Bund und dem Kan- ton regelt.",
+            "b)  Ein Verein, der für die Interessen der Bewohnerinnen und Bewohner eines Quartiers gegenüber Behörden eintritt und das gesellschaftliche Leben fördert.",
+            "c)  Ein Verein, in dem Bewohnerinnen und Bewohner eines Quartiers automatisch Mitglied sind.",
+            "d)  Ein Verein, der die Verkehrswege innerhalb eines Quartiers regelt und die Ein- haltung der Verkehrsvorschriften kontrolliert."
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/200.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 201,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Gemeinde",
+        "question": "Was will der Finanzausgleich zwischen den Gemeinden?",
+        "options": [
+            "a)  Er soll helfen, die Korruption zu bekämpfen.",
+            "b)  Er soll helfen, eine Inflation zu vermeiden.",
+            "c)  Er zwingt arme Gemeinden zur Erledigung ihrer Pflichten (Schulen, Altersheime, usw.).",
+            "d)  Er unterstützt arme Gemeinden oder Gemeinden mit hohen Sozialausgaben bei der Erledigung ihrer Aufgaben."
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/201.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 202,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Gemeinde",
+        "question": "Welche Unterstützung gibt die Gemeinde, wenn das eigene Einkom- men oder Vermögen für den Lebensunterhalt nicht ausreicht?",
+        "options": [
+            "a)  Geld für Mahlzeiten (Kostgeld)",
+            "b)  einen Gemeindebeitrag (Gemeinderappen)",
+            "c)  Sozialhilfe",
+            "d)  Kantonsgeld"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/202.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 203,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Gemeinde",
+        "question": "Wo kann man sich über Angebote und Regelungen der Gemeinde infor- mieren?",
+        "options": [
+            "a)  in der Lokalzeitung oder im Internet",
+            "b)  im Fernsehen",
+            "c)  am Anschlagbrett im Einkaufszentrum",
+            "d)  auf Plakaten"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/203.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 204,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Gemeinde",
+        "question": "Für welche sozialen Leistungen zahlen die Gemeinden?",
+        "options": [
+            "a)  Sozialhilfe in einer Notsituation",
+            "b)  Altersrente",
+            "c)  Kosten für die Fahrprüfung",
+            "d)  Reisekosten in der Freizeit"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/204.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 205,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Gemeinde",
+        "question": "Wer ist zuständig für die Finanzierung und Organisation der Primar- schule?",
+        "options": [
+            "a)  die Eltern",
+            "b)  der Kanton mit den Gemeinden",
+            "c)  der Bund",
+            "d)  der Schulkreis"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/205.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 206,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Gemeinde",
+        "question": "Wo muss man sich melden, wenn man heiraten möchte?",
+        "options": [
+            "a)  an die Eltern",
+            "b)  an die Regionale Partnervermittlung",
+            "c)  an das Zivilstandsamt",
+            "d)  an die Eheberatung"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/206.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 207,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Gemeinde",
+        "question": "Wo muss man sich melden, wenn man umzieht?",
+        "options": [
+            "a)  bei den Steuerbehörden",
+            "b)  bei der Polizei",
+            "c)  bei der Gebäudeversicherung",
+            "d)  bei der Gemeinde (Einwohnerkontrolle)"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/207.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 208,
+        "category": "Sozialstaat und Zivilgesellschaft",
+        "subcategory": "Gemeinde",
+        "question": "Wer leitet die Volksschulen in den Zürcher Gemeinden?",
+        "options": [
+            "a)  der Elternrat",
+            "b)  die Schulleitung",
+            "c)  das Schulsekretariat",
+            "d)  die Konferenz der Lehrpersonen"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/208.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 209,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "Im Jahr 1798 machte ein europäischer Herrscher für kurze Zeit einen Zentralstaat aus der Eidgenossenschaft. Wie hiess der Herrscher?",
+        "options": [
+            "a)  Rudolf von Habsburg",
+            "b)  Friedrich der Grosse",
+            "c)  Karl der Kühne",
+            "d)  Napoleon Bonaparte"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/209.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 210,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "Wer war wichtig bei der Gründung der Eidgenössischen Technischen Hochschule (ETH), dem Eisenbahnbau und der Gründung der heutigen Crédit Suisse?",
+        "options": [
+            "a)  Conrad Ferdinand Meyer",
+            "b)  Robert Grimm",
+            "c)  Henri Dufour",
+            "d)  Alfred Escher"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/210.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 211,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "Beim Landesstreik 1918 forderten die Arbeitenden mehr Rechte. Was war eine Folge des Landesstreiks?",
+        "options": [
+            "a)  Die 48-Stunden-Woche wurde eingeführt.",
+            "b)  Die Arbeitenden konnten mit der Eisenbahn gratis zur Arbeit fahren.",
+            "c)  Arbeitenden bekamen 6 Wochen Ferien.",
+            "d)  Die Fabriken wurden Eigentum des Staates."
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/211.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 212,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "Was verlangte die sogenannte «Schwarzenbach-Initiative» 1970?",
+        "options": [
+            "a)  die Einführung des Englischunterrichts in der Primarschule",
+            "b)  ein Verbot von Minarettbauten",
+            "c)  die Abschaffung der Armee",
+            "d)  eine Begrenzung der Anzahl Ausländerinnen und Ausländer"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/212.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 213,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "Welche Bedeutung hat das Jahr 1848 für die Geschichte der Schweiz?",
+        "options": [
+            "a)  Gründung des Schweizer Bundesstaates",
+            "b)  Garantie der Neutralität durch die europäischen Mächte",
+            "c)  Niederlage eidgenössischer Truppen bei Marignano",
+            "d)  Unabhängigkeit vom Heiligen Römischen Reich"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/213.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 214,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "Wie heisst die Schweizer Nationalhymne?",
+        "options": [
+            "a)  Swiss-Song",
+            "b)  Hallelujah",
+            "c)  Schweizerpsalm",
+            "d)  Schweizer Hit"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/214.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 215,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "Welcher Kanton ist erst seit 1979 ein eigenständiger Kanton?",
+        "options": [
+            "a)  St. Gallen",
+            "b)  Jura",
+            "c)  Zürich",
+            "d)  Solothurn"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/215.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 216,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "Im 16. Jahrhundert gab es in Europa und in der Schweiz eine wichtige religiöse Bewegung. Wie heisst sie?",
+        "options": [
+            "a)  Islamisierung",
+            "b)  Reformation",
+            "c)  Skeptizismus",
+            "d)  Hinduismus"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/216.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 217,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "Wann haben Schweizer Frauen das Stimm- und Wahlrecht auf Bundes- ebene bekommen?",
+        "options": [
+            "a)  1918",
+            "b)  1971",
+            "c)  1948",
+            "d)  1988"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/217.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 218,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "In den 1950er-Jahren brauchte die Schweiz ausländische Arbeits- kräfte. Woher kamen die meisten?",
+        "options": [
+            "a)  Portugal",
+            "b)  Frankreich",
+            "c)  Italien",
+            "d)  Griechenland"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/218.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 219,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "Warum kamen viele Menschen in den 1990-er Jahren aus (Ex-)Jugoslawien in die Schweiz?",
+        "options": [
+            "a)  Sie wollten an einer Schweizer Universität studieren.",
+            "b)  Sie wollten ihre Verwandten besuchen und die Schweiz bereisen.",
+            "c)  Sie flohen vor dem Krieg aus ihrer Heimat.",
+            "d)  Sie wurden beim Staudammprojekt Grand-Dixence als Arbeitskräfte benötigt."
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/219.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 220,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "Wie kann man das Verhältnis der Schweiz zu den kriegführenden Mächten im Zweiten Weltkrieg beschreiben?",
+        "options": [
+            "a)  Bündnispartner der Alliierten",
+            "b)  Bündnispartner der Achsenmächte",
+            "c)  neutral - politische und wirtschaftliche Beziehungen zu den kriegführenden Mächten",
+            "d)  neutral - keine Beziehungen zu den kriegführenden Mächten"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/220.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 221,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "In der Schweiz begann die Industrialisierung im frühen 19. Jahrhun- dert. Was war dabei am wichtigsten?",
+        "options": [
+            "a)  Textilindustrie",
+            "b)  Stahlindustrie",
+            "c)  Kohlenförderung",
+            "d)  Autoindustrie"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/221.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 222,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "Mann und Frau sind gleichberechtigt. Seit wann ist dieser Satz in der Verfassung?",
+        "options": [
+            "a)  seit 1981",
+            "b)  seit 1968",
+            "c)  seit 1996",
+            "d)  seit 1945"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/222.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 223,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "Im 19. Jahrhundert wandelte sich die Schweiz ...",
+        "options": [
+            "a)  vom Bundesstaat zum Zentralstaat.",
+            "b)  zu einer europäischen Grossmacht.",
+            "c)  zu einer Kolonialmacht.",
+            "d)  vom Agrarstaat zum Industriestaat."
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/223.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 224,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "Wann stieg der Lebensstandard in der Schweiz für viele Menschen deutlich an?",
+        "options": [
+            "a)  um 1900",
+            "b)  in den 1930er-Jahren",
+            "c)  in den 1960er-Jahren",
+            "d)  in den 1990er-Jahren"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/224.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 225,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "Während der kolonialen Herrschaft Europas ...",
+        "options": [
+            "a)  hatte die Schweiz Kolonien in Asien und Afrika.",
+            "b)  waren Schweizer Söldner in Russland aktiv.",
+            "c)  exportierte die Schweiz Gewürze nach Nordamerika.",
+            "d)  konnte sich die Schweiz dank Zugang zu Rohstoffen als Industrienation etablie- ren."
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/225.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 226,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "Welche Urkantone schlossen sich 1291 zu einem Bündnis zusammen?",
+        "options": [
+            "a)  St. Gallen, Thurgau, Schaffhausen",
+            "b)  Genf, Waadt, Freiburg",
+            "c)  Bern, Zürich, Zug",
+            "d)  Uri, Schwyz, Unterwalden"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/226.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 227,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "Welches Volk lebte zur Zeit des alten Roms im Gebiet der heutigen Schweiz?",
+        "options": [
+            "a)  Helvetier",
+            "b)  Eidgenossen",
+            "c)  Etrusker",
+            "d)  Illyrier"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/227.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 228,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "Wer kämpfte im Sonderbundskrieg 1847 gegeneinander?",
+        "options": [
+            "a)  Adel und Bauern",
+            "b)  Zürich und Bern",
+            "c)  Katholiken und Liberale",
+            "d)  Westschweiz und Tessin"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/228.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 229,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "Von welcher antiken Herrschaft und Kultur stammt das hier abgebil- dete Amphitheater (in Avenches)?",
+        "options": [
+            "a)  von den Galliern",
+            "b)  von den Römern",
+            "c)  von den Wikingern",
+            "d)  von den Griechen"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/229.md",
+        "question_image": "images/q229_0.png",
+        "option_images": null
+    },
+    {
+        "id": 230,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "Im Jahr 1515 verloren die Eidgenossen die Schlacht bei Marignano. Welche Folgen hatte diese Niederlage?",
+        "options": [
+            "a)  Die Eidgenossen verzichteten auf die Eroberung weiterer Gebiete.",
+            "b)  Die Schweiz schaffte ihre Armee ab.",
+            "c)  Die Bauern wehrten sich gegen die Regierungen in Bern, Zürich und Luzern.",
+            "d)  Die Eidgenossen überfielen die Stadt Zürich."
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/230.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 231,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "Welche neue Glaubensrichtung entstand mit der Reformation?",
+        "options": [
+            "a)  das Judentum",
+            "b)  der Buddhismus",
+            "c)  der Islam",
+            "d)  der protestantische Glaube"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/231.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 232,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "Was führte zur konfessionellen Spaltung der Schweiz?",
+        "options": [
+            "a)  die Täuferbewegung",
+            "b)  die Reformation",
+            "c)  der Generalstreik",
+            "d)  die Aufhebung der Klöster"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/232.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 233,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "Was führte 1798 zur politischen Neuordnung der Eidgenossenschaft?",
+        "options": [
+            "a)  die Einführung der allgemeinen Schulpflicht",
+            "b)  die Revolution im Waadtland",
+            "c)  der Einmarsch der Franzosen in die Schweiz",
+            "d)  die Gründung des Kantons Zürich"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/233.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 234,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "Was haben die europäischen Mächte am Wiener Kongress 1815 für die Schweiz festgelegt?",
+        "options": [
+            "a)  die Befolgung der Neutralität",
+            "b)  die Aufhebung der Zölle an den Schweizer Grenzen",
+            "c)  den Verzicht auf das Söldnerwesen",
+            "d)  die Loslösung von Österreich"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/234.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 235,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "Wie wurde die Eidgenossenschaft in der Bundesverfassung von 1848 neu definiert?",
+        "options": [
+            "a)  als Volksrepublik",
+            "b)  als föderalistischer Bundesstaat",
+            "c)  als Zentralstaat",
+            "d)  als parlamentarische Monarchie"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/235.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 236,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "Welche wichtige humanitäre Organisation wurde 1863 in Genf gegrün- det?",
+        "options": [
+            "a)  Amnesty International",
+            "b)  die Pro Juventute",
+            "c)  das Internationale Komitee vom Roten Kreuz (IKRK)",
+            "d)  die Glückskette"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/236.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 237,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "Welche Erfindung hat die Schweizer Industrie im 18. Jahrhundert grundlegend verändert?",
+        "options": [
+            "a)  der Benzinmotor (Otto-Motor)",
+            "b)  die Dampfmaschine",
+            "c)  der Elektromotor",
+            "d)  der Computer"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/237.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 238,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "Im Jahr 1877 hat man die Kinderarbeit in der Schweiz verboten. Wa- rum?",
+        "options": [
+            "a)  Kinder mussten zuhause auf den Bauernhöfen mithelfen.",
+            "b)  Kinder konnten bei schweren und gefährlichen Arbeiten sowieso nicht einge- setzt werden.",
+            "c)  Kinder konnten nicht zur Schule gehen, weil sie in Fabriken arbeiteten.",
+            "d)  Kinder wurden zur Arbeit ausgeliehen. Sie verdienten dort aber zu wenig."
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/238.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 239,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "Welche Versicherung wurde 1948 in der Schweiz eingeführt?",
+        "options": [
+            "a)  die Haftpflichtversicherung für Motorfahrzeuge",
+            "b)  die Feuerversicherung",
+            "c)  die Alters- und Hinterlassenenversicherung (AHV)",
+            "d)  die Lebensversicherung"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/239.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 240,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "Seit wann dürfen Schweizer Bürgerinnen auf Bundesebene wählen und abstimmen?",
+        "options": [
+            "a)  seit 1878",
+            "b)  seit 1946",
+            "c)  seit 1919",
+            "d)  seit 1971"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/240.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 241,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "Wer war die erste Frau im Schweizer Bundesrat?",
+        "options": [
+            "a)  Ruth Dreifuss",
+            "b)  Elisabeth Kopp",
+            "c)  Ruth Metzler",
+            "d)  Micheline Calmy-Rey"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/241.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 242,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "Mit was wurden die Grundlagen der heutigen Beziehungen der Schweiz zur EU gelegt?",
+        "options": [
+            "a)  mit der Zustimmung des Stimmvolks zu den Bilateralen Verträgen I im Jahr 2000",
+            "b)  mit der Ablehnung des EWR-Beitritts durch die Volksabstimmung im Jahr 1992",
+            "c)  mit dem Rückzug des Gesuchs für einen EU-Beitritt der Schweiz im Jahr 2016",
+            "d)  mit dem UNO-Beitritt der Schweiz im Jahr 2002"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/242.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 243,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "Wer war Wilhelm Tell?",
+        "options": [
+            "a)  ein eidgenössischer Söldner in fremden Diensten",
+            "b)  eine Innerschweizer Sagenfigur, die gegen fremde Herrscher kämpfte",
+            "c)  ein adliger Grundherr im Schweizer Mittelland",
+            "d)  ein Anführer im Bauernkrieg"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/243.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 244,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "Welche Organisation gründete Henry Dunant (1828-1910) in Genf?",
+        "options": [
+            "a)  den Christlichen Verein junger Männer",
+            "b)  die Pro Juventute",
+            "c)  das Internationale Komitee vom Roten Kreuz (IKRK)",
+            "d)  den Weltpostverein"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/244.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 245,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "In welcher Wirtschaftsbranche ist die Schweiz seit Jahrhunderten weltweit führend?",
+        "options": [
+            "a)  in der Textilindustrie",
+            "b)  in der Uhrenindustrie",
+            "c)  in der Autoindustrie",
+            "d)  im Bergbau"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/245.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 246,
+        "category": "Geschichte",
+        "subcategory": "Bund",
+        "question": "Weshalb wanderten viele Schweizerinnen und Schweizer im 19. Jahr- hundert aus?",
+        "options": [
+            "a)  Weil sie in der Schweiz politisch verfolgt wurden.",
+            "b)  Weil sie Berufserfahrung sammeln wollten.",
+            "c)  Weil Hunger, Armut und Arbeitslosigkeit herrschte.",
+            "d)  Weil sie Lust auf Abenteuer hatten."
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/246.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 247,
+        "category": "Geschichte",
+        "subcategory": "Kanton",
+        "question": "Für was wurde der Sechseläutenplatz im Zweiten Weltkrieg benutzt?",
+        "options": [
+            "a)  als Chilbi",
+            "b)  als Sportplatz",
+            "c)  als Pferderennbahn",
+            "d)  als Kartoffelfeld"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/247.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 248,
+        "category": "Geschichte",
+        "subcategory": "Kanton",
+        "question": "Zur Römerzeit war der Name der Stadt Zürich …",
+        "options": [
+            "a)  Vitudurum",
+            "b)  Vindonissa",
+            "c)  Aquae Helveticae",
+            "d)  Turicum"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/248.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 249,
+        "category": "Geschichte",
+        "subcategory": "Kanton",
+        "question": "Was haben die Römer nach Zürich gebracht?",
+        "options": [
+            "a)  die Badekultur",
+            "b)  Chinesisches Porzellan",
+            "c)  das Alphorn",
+            "d)  die Tropenhäuser des Botanischen Gartens"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/249.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 250,
+        "category": "Geschichte",
+        "subcategory": "Kanton",
+        "question": "Von 5000 bis 1000 vor Christus bauten die Menschen am Zürichsee …",
+        "options": [
+            "a)  Iglus.",
+            "b)  Pfahlbauten.",
+            "c)  Kirchen.",
+            "d)  Höhlensysteme."
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/250.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 251,
+        "category": "Geschichte",
+        "subcategory": "Kanton",
+        "question": "An was starb zwischen 1611 und 1635 fast die Hälfte der Zürcher Be- völkerung?",
+        "options": [
+            "a)  an der Pest",
+            "b)  am Corona-Virus",
+            "c)  an Krebs",
+            "d)  an der Spanischen Grippe"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/251.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 252,
+        "category": "Geschichte",
+        "subcategory": "Kanton",
+        "question": "Ulrich Zwingli (1484-1531) war ein bekannter ...",
+        "options": [
+            "a)  Reformator in Zürich.",
+            "b)  Unternehmer.",
+            "c)  Naturwissenschaftler.",
+            "d)  Musiker."
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/252.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 253,
+        "category": "Geschichte",
+        "subcategory": "Kanton",
+        "question": "Den Kanton Zürich im modernen Sinn gibt es seit ...",
+        "options": [
+            "a)  1415",
+            "b)  1291",
+            "c)  1803",
+            "d)  1798"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/253.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 254,
+        "category": "Geschichte",
+        "subcategory": "Kanton",
+        "question": "Wer hat die Kirche in Zürich reformiert?",
+        "options": [
+            "a)  Jan Hus",
+            "b)  Ulrich Zwingli",
+            "c)  Martin Luther",
+            "d)  Jean Calvin"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/254.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 255,
+        "category": "Geschichte",
+        "subcategory": "Kanton",
+        "question": "Wofür hat sich Emilie Lieberherr (1924-2011) eingesetzt?",
+        "options": [
+            "a)  für eine freie Presse",
+            "b)  für das Frauenstimmrecht",
+            "c)  gegen den Beitritt der Schweiz zur UNO (Vereinte Nationen)",
+            "d)  für die Beteiligung der Schweiz an der Raumfahrt"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/255.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 256,
+        "category": "Geschichte",
+        "subcategory": "Kanton",
+        "question": "Welche Fabriken gründeten Philippe Suchard (1797-1884) und Rudolph Lindt (1855-1909) in der Schweiz?",
+        "options": [
+            "a)  Textilfabriken",
+            "b)  Druckereien",
+            "c)  Schokoladefabriken",
+            "d)  Maschinenfabriken"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/256.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 257,
+        "category": "Geografie",
+        "subcategory": "Bund",
+        "question": "Was ist am Gotthard-Basis-Tunnel speziell?",
+        "options": [
+            "a)  Er war der erste Tunnel in Europa.",
+            "b)  Er ist der einzige Eisenbahntunnel Europas.",
+            "c)  Er ist der längste Eisenbahntunnel der Welt.",
+            "d)  Er hat den grössten Tunneldurchmesser der Welt."
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/257.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 258,
+        "category": "Geografie",
+        "subcategory": "Bund",
+        "question": "Simplon, Gotthard, Grosser Sankt Bernhard sind Beispiele für ...",
+        "options": [
+            "a)  Schweizer Käsesorten.",
+            "b)  Schweizer Hauptverkehrsachsen.",
+            "c)  Schweizer Naturreservate.",
+            "d)  Schweizer Alpenpässe."
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/258.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 259,
+        "category": "Geografie",
+        "subcategory": "Bund",
+        "question": "Wohin fliesst der Rhein?",
+        "options": [
+            "a)  in die Nordsee",
+            "b)  ins Schwarze Meer",
+            "c)  in den Pazifik",
+            "d)  ins Mittelmeer"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/259.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 260,
+        "category": "Geografie",
+        "subcategory": "Bund",
+        "question": "Wohin fliesst die Rhone?",
+        "options": [
+            "a)  in die Ostsee",
+            "b)  in den Atlantik",
+            "c)  ins Mittelmeer",
+            "d)  ins Schwarze Meer"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/260.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 261,
+        "category": "Geografie",
+        "subcategory": "Bund",
+        "question": "Rund zwei Drittel der ausländischen Bevölkerung der Schweiz ...",
+        "options": [
+            "a)  kommen aus einem EU-Land.",
+            "b)  kommen aus Italien.",
+            "c)  sprechen fliessend Englisch.",
+            "d)  leben in der Ostschweiz."
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/261.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 262,
+        "category": "Geografie",
+        "subcategory": "Bund",
+        "question": "Aus geografischer Sicht ist die Schweiz ...",
+        "options": [
+            "a)  ein Binnenland.",
+            "b)  eine Exklave.",
+            "c)  ein Kontinent.",
+            "d)  eine Insel."
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/262.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 263,
+        "category": "Geografie",
+        "subcategory": "Bund",
+        "question": "Über das Eisenbahnnetz der Schweiz sagt man, ...",
+        "options": [
+            "a)  es sei das schönste der Welt.",
+            "b)  es sei das dichteste der Welt.",
+            "c)  es sei das längste der Welt.",
+            "d)  es sei das billigste der Welt."
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/263.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 264,
+        "category": "Geografie",
+        "subcategory": "Bund",
+        "question": "Wer ist der wichtigste Handelspartner der Schweiz?",
+        "options": [
+            "a)  USA",
+            "b)  EU",
+            "c)  China",
+            "d)  Brasilien"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/264.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 265,
+        "category": "Geografie",
+        "subcategory": "Bund",
+        "question": "Die drei grossen geografischen Räume der Schweiz sind:",
+        "options": [
+            "a)  Jura, Mittelland, Alpen",
+            "b)  Rhonetal, Südtäler, Alpennordfuss",
+            "c)  Rheintal, Rhonetal, Aaretal",
+            "d)  Bündner Alpen, Innerschweizer Alpen, Berner Alpen"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/265.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 266,
+        "category": "Geografie",
+        "subcategory": "Bund",
+        "question": "Die Ausdehnung der Schweiz von Norden nach Süden ist ...",
+        "options": [
+            "a)  580 km.",
+            "b)  220 km.",
+            "c)  130 km.",
+            "d)  760 km."
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/266.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 267,
+        "category": "Geografie",
+        "subcategory": "Bund",
+        "question": "Die Ausdehnung der Schweiz von Osten nach Westen ist ...",
+        "options": [
+            "a)  700 km.",
+            "b)  150 km.",
+            "c)  350 km.",
+            "d)  900 km."
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/267.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 268,
+        "category": "Geografie",
+        "subcategory": "Bund",
+        "question": "Welcher Kanton ist ein Bergkanton?",
+        "options": [
+            "a)  Wallis",
+            "b)  Schaffhausen",
+            "c)  Zürich",
+            "d)  Aargau"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/268.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 269,
+        "category": "Geografie",
+        "subcategory": "Bund",
+        "question": "Wie heisst die höchste Bergspitze in der Schweiz?",
+        "options": [
+            "a)  Dom",
+            "b)  Dufourspitze",
+            "c)  Liskamm",
+            "d)  Weisshorn"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/269.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 270,
+        "category": "Geografie",
+        "subcategory": "Bund",
+        "question": "Was ist eine wichtige Aufgabe der Raumplanung?",
+        "options": [
+            "a)  Schutz von unverbauten Landschaften",
+            "b)  Unterhalt von Kanalisationen",
+            "c)  Bau von Einkaufszentren",
+            "d)  Finanzausgleich zwischen Gemeinden"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/270.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 271,
+        "category": "Geografie",
+        "subcategory": "Bund",
+        "question": "Warum werden die Gletscher in der Schweiz kleiner?",
+        "options": [
+            "a)  wegen dem Klimawandel",
+            "b)  wegen den vielen Touristen in den Bergen",
+            "c)  wegen der Benutzung für die Ski-Rennen",
+            "d)  wegen dem vielen Regen im Sommer"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/271.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 272,
+        "category": "Geografie",
+        "subcategory": "Bund",
+        "question": "Wie reagieren Förster auf den Anstieg der Temperaturen wegen des Klimawandels?",
+        "options": [
+            "a)  Sie holzen die Wälder ab.",
+            "b)  Sie pflanzen andere Baumsorten.",
+            "c)  Sie besprühen die Wälder.",
+            "d)  Sie verweigern die Arbeit."
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/272.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 273,
+        "category": "Geografie",
+        "subcategory": "Bund",
+        "question": "Wie heisst ein trockener und warmer Südwind in der Schweiz?",
+        "options": [
+            "a)  Bise",
+            "b)  Föhn",
+            "c)  Brise",
+            "d)  Führ"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/273.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 274,
+        "category": "Geografie",
+        "subcategory": "Bund",
+        "question": "Die Schweiz grenzt im Westen an …",
+        "options": [
+            "a)  Portugal.",
+            "b)  Spanien.",
+            "c)  Frankreich.",
+            "d)  Deutschland."
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/274.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 275,
+        "category": "Geografie",
+        "subcategory": "Bund",
+        "question": "Das Nachbarland im Süden der Schweiz ist …",
+        "options": [
+            "a)  Spanien.",
+            "b)  Kroatien.",
+            "c)  Liechtenstein.",
+            "d)  Italien."
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/275.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 276,
+        "category": "Geografie",
+        "subcategory": "Bund",
+        "question": "Wie heisst die grösste Stadt der Schweiz?",
+        "options": [
+            "a)  Zürich",
+            "b)  Basel",
+            "c)  Bern",
+            "d)  Genf"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/276.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 277,
+        "category": "Geografie",
+        "subcategory": "Bund",
+        "question": "Wo leben die meisten Menschen in der Schweiz?",
+        "options": [
+            "a)  in den Alpen",
+            "b)  im Westschweizer Jura",
+            "c)  im Mittelland",
+            "d)  im Tessin"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/277.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 278,
+        "category": "Geografie",
+        "subcategory": "Bund",
+        "question": "Wie viele Ausländerinnen und Ausländer leben in der Schweiz (Stand 2020)?",
+        "options": [
+            "a)  3.5 Millionen",
+            "b)  2.1 Millionen",
+            "c)  630'000",
+            "d)  1.1 Millionen"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/278.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 279,
+        "category": "Geografie",
+        "subcategory": "Bund",
+        "question": "Wie heisst dieser Berg?",
+        "options": [
+            "a)  Finsteraarhorn",
+            "b)  Eiger",
+            "c)  Matterhorn",
+            "d)  Mont Blanc"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/279.md",
+        "question_image": "images/q279_0.png",
+        "option_images": null
+    },
+    {
+        "id": 280,
+        "category": "Geografie",
+        "subcategory": "Bund",
+        "question": "Welcher Kanton hat die grösste Fläche?",
+        "options": [
+            "a)  Basel",
+            "b)  Graubünden",
+            "c)  Zürich",
+            "d)  Glarus"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/280.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 281,
+        "category": "Geografie",
+        "subcategory": "Bund",
+        "question": "Wie viele Menschen leben in der Schweiz (Stand 2020)?",
+        "options": [
+            "a)  600’000",
+            "b)  12 Millionen",
+            "c)  5 Millionen",
+            "d)  8.6 Millionen"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/281.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 282,
+        "category": "Geografie",
+        "subcategory": "Bund",
+        "question": "Wie gross ist der Anteil der ausländischen Wohnbevölkerung in der Schweiz (Stand 2020)?",
+        "options": [
+            "a)  10%",
+            "b)  60%",
+            "c)  25%",
+            "d)  40%"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/282.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 283,
+        "category": "Geografie",
+        "subcategory": "Bund",
+        "question": "Was ist eine wichtige natürliche Ressource der Schweiz?",
+        "options": [
+            "a)  grosse Goldvorkommen in der Zentralschweiz",
+            "b)  grosse Wasservorräte zum Betrieb von Wasserkraftwerken",
+            "c)  wertvolle Bodenschätze (Erdöl, Kohle)",
+            "d)  grosser Bestand an Fischen"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/283.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 284,
+        "category": "Geografie",
+        "subcategory": "Bund",
+        "question": "In welchem Kanton spricht man Französisch und Deutsch?",
+        "options": [
+            "a)  St. Gallen",
+            "b)  Tessin",
+            "c)  Graubünden",
+            "d)  Freiburg"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/284.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 285,
+        "category": "Geografie",
+        "subcategory": "Bund",
+        "question": "Welche Region in der Schweiz nennt man Welschland oder Romandie?",
+        "options": [
+            "a)  die Ostschweiz",
+            "b)  die französischsprachige Schweiz",
+            "c)  die deutschsprachige Schweiz",
+            "d)  das Tessin"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/285.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 286,
+        "category": "Geografie",
+        "subcategory": "Bund",
+        "question": "Welche Sprache spricht man im Kanton Tessin?",
+        "options": [
+            "a)  Rätoromanisch",
+            "b)  Französisch",
+            "c)  Italienisch",
+            "d)  Deutsch"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/286.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 287,
+        "category": "Geografie",
+        "subcategory": "Bund",
+        "question": "In welchem Kanton spricht man Rätoromanisch?",
+        "options": [
+            "a)  Freiburg",
+            "b)  Appenzell",
+            "c)  Glarus",
+            "d)  Graubünden"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/287.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 288,
+        "category": "Geografie",
+        "subcategory": "Bund",
+        "question": "Was bedeutet das Wort Röstigraben?",
+        "options": [
+            "a)  die kulturelle Grenze zwischen der deutschsprachigen und der französischspra- chigen Schweiz",
+            "b)  das Rhonetal",
+            "c)  die Aareschlucht",
+            "d)  die Grenze zwischen der Schweiz und Deutschland"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/288.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 289,
+        "category": "Geografie",
+        "subcategory": "Kanton",
+        "question": "Wo liegt der Kanton Zürich?",
+        "options": [
+            "a)",
+            "b)",
+            "c)",
+            "d)"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/289.md",
+        "question_image": null,
+        "option_images": [
+            "images/q289_a.png",
+            "images/q289_b.png",
+            "images/q289_c.png",
+            "images/q289_d.png"
+        ]
+    },
+    {
+        "id": 290,
+        "category": "Geografie",
+        "subcategory": "Kanton",
+        "question": "Karten: © BFS, Webseite Statistik Schweiz Geografisch gehört der Kanton Zürich ...",
+        "options": [
+            "a)  zum Jura.",
+            "b)  zur Seenplatte.",
+            "c)  zum Mittelland.",
+            "d)  zur Tössebene."
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/290.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 291,
+        "category": "Geografie",
+        "subcategory": "Kanton",
+        "question": "An wie viele Kantone grenzt der Kanton Zürich?",
+        "options": [
+            "a)  10",
+            "b)  2",
+            "c)  6",
+            "d)  8"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/291.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 292,
+        "category": "Geografie",
+        "subcategory": "Kanton",
+        "question": "Wie heissen die drei grössten Städte des Kantons Zürich?",
+        "options": [
+            "a)  Zürich, Winterthur, Uster",
+            "b)  Zürich, Zug, Cham",
+            "c)  Zürich, Winterthur, Bülach",
+            "d)  Zürich, Baden, Wettingen"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/292.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 293,
+        "category": "Geografie",
+        "subcategory": "Kanton",
+        "question": "Welche Hügel umrahmen den Zürichsee?",
+        "options": [
+            "a)  Chli Aubrig, Hörnli, Randen",
+            "b)  Randen, Hörnli, Albis",
+            "c)  Lägeren, Stierenberg, Pfannenstiel",
+            "d)  Uetliberg, Albis, Pfannenstiel"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/293.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 294,
+        "category": "Geografie",
+        "subcategory": "Kanton",
+        "question": "In welcher Gemeinde liegt der Flughafen Zürich?",
+        "options": [
+            "a)  Zürich",
+            "b)  Winterthur",
+            "c)  Kloten",
+            "d)  Bülach"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/294.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 295,
+        "category": "Geografie",
+        "subcategory": "Kanton",
+        "question": "Welcher See liegt im Kanton Zürich?",
+        "options": [
+            "a)  Hallwilersee",
+            "b)  Pfäffikersee",
+            "c)  Zugersee",
+            "d)  Sempachersee"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/295.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 296,
+        "category": "Geografie",
+        "subcategory": "Kanton",
+        "question": "Wie heisst der zweitgrösste See des Kantons Zürich?",
+        "options": [
+            "a)  Walensee",
+            "b)  Zugersee",
+            "c)  Sihlsee",
+            "d)  Greifensee"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/296.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 297,
+        "category": "Geografie",
+        "subcategory": "Kanton",
+        "question": "Welcher Fluss fliesst in der Stadt Zürich in die Limmat?",
+        "options": [
+            "a)  Sihl",
+            "b)  Aare",
+            "c)  Rhone",
+            "d)  Tessin"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/297.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 298,
+        "category": "Geografie",
+        "subcategory": "Kanton",
+        "question": "Welcher Fluss fliesst durch den Kanton Zürich?",
+        "options": [
+            "a)  Rhone",
+            "b)  Inn",
+            "c)  Aare",
+            "d)  Limmat"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/298.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 299,
+        "category": "Geografie",
+        "subcategory": "Kanton",
+        "question": "Welcher Fluss fliesst durch Winterthur?",
+        "options": [
+            "a)  Töss",
+            "b)  Rhein",
+            "c)  Limmat",
+            "d)  Sihl"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/299.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 300,
+        "category": "Geografie",
+        "subcategory": "Kanton",
+        "question": "Welches Schloss liegt im Kanton Zürich?",
+        "options": [
+            "a)  Schloss Kyburg",
+            "b)  Château de Chillon",
+            "c)  Schloss Hallwyl",
+            "d)  Schloss Greyerz"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/300.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 301,
+        "category": "Geografie",
+        "subcategory": "Kanton",
+        "question": "Wie gross ist die Landwirtschaftsfläche im Kanton Zürich?",
+        "options": [
+            "a)  5%",
+            "b)  60%",
+            "c)  80%",
+            "d)  41%"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/301.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 302,
+        "category": "Geografie",
+        "subcategory": "Kanton",
+        "question": "Wie viele Personen leben im Kanton Zürich (Stand 2020)?",
+        "options": [
+            "a)  1.5 Millionen",
+            "b)  360'000",
+            "c)  600'000",
+            "d)  3.1 Millionen"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/302.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 303,
+        "category": "Geografie",
+        "subcategory": "Kanton",
+        "question": "Wie heisst die Hauptstadt des Kantons Zürich?",
+        "options": [
+            "a)  Uster",
+            "b)  Winterthur",
+            "c)  Wädenswil",
+            "d)  Zürich"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/303.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 304,
+        "category": "Geografie",
+        "subcategory": "Kanton",
+        "question": "Welcher Kanton grenzt an den Kanton Zürich?",
+        "options": [
+            "a)  Freiburg",
+            "b)  Thurgau",
+            "c)  Luzern",
+            "d)  Glarus"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/304.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 305,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Bund",
+        "question": "Wie heisst das traditionelle Kartenspiel der Schweiz?",
+        "options": [
+            "a)  Uno",
+            "b)  Jass",
+            "c)  Poker",
+            "d)  Bridge"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/305.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 306,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Bund",
+        "question": "Wie heisst der grösste Schweizer Zirkus?",
+        "options": [
+            "a)  Zirkus Knie",
+            "b)  Zirkus Busch",
+            "c)  Zirkus Krone",
+            "d)  Zirkus Roncalli"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/306.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 307,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Bund",
+        "question": "Die Basler Fasnacht wird mit dem «Morgestraich» an einem Montag um 4 Uhr morgens angepfiffen. Was passiert dann?",
+        "options": [
+            "a)  Alle Baslerinnen und Basler beginnen zu singen.",
+            "b)  Die Vorsitzenden der Fasnachtsgruppen halten Reden.",
+            "c)  Die Strassenlichter werden gelöscht und die Pfeifer und Trommler beginnen zu spielen.",
+            "d)  Brennende Besen werden durch die Stadt getragen."
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/307.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 308,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Bund",
+        "question": "Wie heisst eine traditionelle Schweizer Sportart?",
+        "options": [
+            "a)  Basketball",
+            "b)  Eishockey",
+            "c)  Schwingen",
+            "d)  Volleyball"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/308.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 309,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Bund",
+        "question": "Wann ist der Schweizer Nationalfeiertag?",
+        "options": [
+            "a)  14. Juli",
+            "b)  1. August",
+            "c)  4. Juli",
+            "d)  3. Oktober"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/309.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 310,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Bund",
+        "question": "Was bedeutet die Abkürzung SBB?",
+        "options": [
+            "a)  Schweizerische Bundesbahnen",
+            "b)  Gesellschaft der schweizerischen Börse",
+            "c)  Zusammenschluss des Bühnenpersonals in der Schweiz",
+            "d)  Schweizerische Gesellschaft für Bildungsforschung"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/310.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 311,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Bund",
+        "question": "SBB, BLS, SOB, SZU sind Abkürzungen für Schweizer ...",
+        "options": [
+            "a)  Gewerkschaften.",
+            "b)  Kulturvereine.",
+            "c)  Eisenbahngesellschaften.",
+            "d)  Seilbahngesellschaften."
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/311.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 312,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Bund",
+        "question": "Was soll man tun, wenn die Alarm-Sirenen im Ernstfall heulen?",
+        "options": [
+            "a)  nach Hause gehen",
+            "b)  Radio hören",
+            "c)  den Fernseher abstellen",
+            "d)  zum zentralen Platz der Gemeinde gehen"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/312.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 313,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Bund",
+        "question": "Was wird im Landesmuseum Zürich gezeigt?",
+        "options": [
+            "a)  Werke des europäischen Impressionismus",
+            "b)  die Geschichte der Schweiz",
+            "c)  eine Insektensammlung",
+            "d)  eine Sammlung von historischen Autos"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/313.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 314,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Bund",
+        "question": "Für welche Industrie ist die Juraregion bekannt?",
+        "options": [
+            "a)  Uhrenindustrie",
+            "b)  Wurstproduktion",
+            "c)  Schuhherstellung",
+            "d)  Seidenmalerei"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/314.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 315,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Bund",
+        "question": "Was ist eine bäuerliche kulturelle Tradition der Schweiz?",
+        "options": [
+            "a)  Didgeridoo spielen.",
+            "b)  Kastagnetten schlagen.",
+            "c)  Jodeln.",
+            "d)  Bembé Trommel spielen."
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/315.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 316,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Bund",
+        "question": "Was braucht man zum Jodeln?",
+        "options": [
+            "a)  Holzschuhe.",
+            "b)  eine kleine Pfeife.",
+            "c)  die Hände.",
+            "d)  die Stimme."
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/316.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 317,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Bund",
+        "question": "Wer entscheidet, welche Artikel in der Zeitung veröffentlicht werden?",
+        "options": [
+            "a)  die Zeitungsredaktion",
+            "b)  der kantonale Verband der Journalistinnen und Journalisten",
+            "c)  die zentrale Medienstelle des Kantons",
+            "d)  die Medienpolizei"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/317.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 318,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Bund",
+        "question": "Was ist eine Schweizer Wochenzeitung (erscheint 1x pro Woche)?",
+        "options": [
+            "a)  Tages-Anzeiger",
+            "b)  Blick",
+            "c)  Neue Zürcher Zeitung",
+            "d)  Sonntagszeitung"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/318.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 319,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Bund",
+        "question": "Wie wird die Schweiz auch bezeichnet?",
+        "options": [
+            "a)  Freistaat Schweiz",
+            "b)  Eidgenossenschaft",
+            "c)  Bündnis Schweiz",
+            "d)  Freie Alpenrepublik"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/319.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 320,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Bund",
+        "question": "Roger Federer ist ein bekannter Schweizer …",
+        "options": [
+            "a)  Tennisspieler.",
+            "b)  Fussballspieler.",
+            "c)  Skirennfahrer.",
+            "d)  Filmschauspieler."
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/320.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 321,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Bund",
+        "question": "An was erinnert das Rütli?",
+        "options": [
+            "a)  an eine prähistorische Kultstätte",
+            "b)  an das Bündnis der Urkantone",
+            "c)  an ein Schlachtfeld",
+            "d)  an einen Friedensvertrag"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/321.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 322,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Bund",
+        "question": "Wer ist auf der 2-Franken-Münze zu sehen?",
+        "options": [
+            "a)  die lächelnde Mona Lisa",
+            "b)  die allegorische Frauenfigur Helvetia",
+            "c)  eine römische Siegerin",
+            "d)  eine antike Priesterin"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/322.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 323,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Bund",
+        "question": "Die Stadt Bern ist politisch wichtig. Warum?",
+        "options": [
+            "a)  Sie ist Sitz der FIFA.",
+            "b)  Sie ist die Hauptstadt der Schweiz.",
+            "c)  Sie ist der Sitz der UNO (Vereinte Nationen).",
+            "d)  Sie ist der Sitz des Europarats."
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/323.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 324,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Bund",
+        "question": "Als was ist die Region Basel besonders bekannt?",
+        "options": [
+            "a)  als Weinland",
+            "b)  als Standort grosser Pharmafirmen",
+            "c)  als Land der Burgen und Klöster",
+            "d)  als Standort verschiedener internationaler Organisationen (z.B. UNO)"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/324.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 325,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Bund",
+        "question": "Welcher Kanton hat am meisten Einwohnerinnen und Einwohner?",
+        "options": [
+            "a)  Waadt",
+            "b)  Bern",
+            "c)  Zürich",
+            "d)  St. Gallen"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/325.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 326,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Bund",
+        "question": "Wann feiert die Schweiz ihren Nationalfeiertag?",
+        "options": [
+            "a)  am 4. Juli",
+            "b)  am 8. November",
+            "c)  am 1. August",
+            "d)  am 1. Mai"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/326.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 327,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Bund",
+        "question": "Was bedeutet die Abkürzung CH?",
+        "options": [
+            "a)  Confoederatio Helvetica",
+            "b)  Schweizerisches Längenmass",
+            "c)  Christlicher Verein",
+            "d)  Cultura Habsburgiensia"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/327.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 328,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Bund",
+        "question": "Welchen Sport machen viele Menschen in der Schweiz im Winter?",
+        "options": [
+            "a)  Skifahren",
+            "b)  Schwingen",
+            "c)  Berg-Radfahren",
+            "d)  Bergsee-Segeln"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/328.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 329,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Bund",
+        "question": "Welche Tradition ist in der Schweiz mit der Fasnacht verbunden?",
+        "options": [
+            "a)  Fahnenschwingen",
+            "b)  Maskenumzüge",
+            "c)  Jodeln",
+            "d)  Bergfeuer"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/329.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 330,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Bund",
+        "question": "Welche berühmte Figur hat die Schriftstellerin Johanna Spyri erfun- den?",
+        "options": [
+            "a)  Ueli der Knecht",
+            "b)  Schellenursli",
+            "c)  Heidi",
+            "d)  Peter und der Wolf"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/330.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 331,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Bund",
+        "question": "Max Frisch (1911-1991) und Friedrich Dürrenmatt (1921-1990) waren bekannte Schweizer ...",
+        "options": [
+            "a)  Komponisten.",
+            "b)  Schriftsteller.",
+            "c)  Unternehmer.",
+            "d)  Journalisten."
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/331.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 332,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Bund",
+        "question": "Nicky Saint-Phalle, Sophie Täuber-Arp und Pipilotti Rist sind internati- onal berühmte Schweizer ...",
+        "options": [
+            "a)  Politikerinnen.",
+            "b)  Sportlerinnen.",
+            "c)  Ingenieurinnen.",
+            "d)  Künstlerinnen."
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/332.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 333,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Bund",
+        "question": "Welche internationale Organisation hat ihren Hauptsitz in der Schweiz?",
+        "options": [
+            "a)  der internationale Strafgerichtshof",
+            "b)  die Organisation für Sicherheit und Zusammenarbeit in Europa (OSZE)",
+            "c)  der Europarat",
+            "d)  das Internationale Komitee vom Roten Kreuz (IKRK)"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/333.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 334,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Bund",
+        "question": "Bei welcher internationalen Organisation ist die Schweiz seit 2002 Mitglied?",
+        "options": [
+            "a)  der Europäischen Union (EU)",
+            "b)  dem Europäischen Wirtschaftsraum (EWR)",
+            "c)  der Organisation der Vereinten Nationen (UNO)",
+            "d)  dem Weltwährungsfonds (IWF)"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/334.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 335,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Bund",
+        "question": "Die Schweiz ist Mitglied der Organisation für Sicherheit und Zusam- menarbeit in Europa (OSZE). Für was setzt sie sich dort besonders ein?",
+        "options": [
+            "a)  für die Friedenssicherung in Osteuropa und Zentralasien",
+            "b)  für die wirtschaftliche Entwicklung Indiens",
+            "c)  für die Förderung des Baus von Flusskraftwerken",
+            "d)  für die Förderung des Tourismus in Europa"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/335.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 336,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Bund",
+        "question": "Wie ist das Verhältnis der Schweiz zur Europäischen Union (EU) gere- gelt?",
+        "options": [
+            "a)  Sie ist Mitglied der EU.",
+            "b)  Sie hat mit der EU die Bilateralen Verträge abgeschlossen.",
+            "c)  Sie hat mit allen EU-Mitgliedstaaten Einzelverträge abgeschlossen.",
+            "d)  Sie ist gegenüber der EU vollständig unabhängig."
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/336.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 337,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Bund",
+        "question": "Welche wichtige internationale Veranstaltung findet regelmässig in der Schweiz statt?",
+        "options": [
+            "a)  der jährliche Umweltgipfel der UNO",
+            "b)  die olympischen Winterspiele",
+            "c)  das Skirennen der Mitglieder des EU-Parlaments",
+            "d)  das Weltwirtschaftsforum (WEF) in Davos"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/337.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 338,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Bund",
+        "question": "In welcher Stadt hat die UNO-Menschenrechtskommission ihren Sitz?",
+        "options": [
+            "a)  Neuenburg",
+            "b)  St. Gallen",
+            "c)  Genf",
+            "d)  Bern"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/338.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 339,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Bund",
+        "question": "Welcher internationale Sportverband hat seinen Sitz in Zürich?",
+        "options": [
+            "a)  Internationaler Golfverband (IGF)",
+            "b)  Internationaler Skiverband (FIS)",
+            "c)  Weltfussballverband (FIFA)",
+            "d)  Internationaler Schwimmverband (FINA)"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/339.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 340,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Bund",
+        "question": "Was kann man auf einer «Chilbi» erleben?",
+        "options": [
+            "a)  eine Fahrt mit der Achterbahn",
+            "b)  eine Opernaufführung",
+            "c)  einen Fussballmatch",
+            "d)  einen Schwimmwettkampf"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/340.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 341,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Bund",
+        "question": "Welchen Sport macht man in der Schweiz am häufigsten in einem Ver- ein?",
+        "options": [
+            "a)  Schwimmen",
+            "b)  Skifahren",
+            "c)  Unihockey",
+            "d)  Fussball"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/341.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 342,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Kanton",
+        "question": "Man sagt: Je schneller am Sechseläuten der «Böögg» (Schneemann- Puppe) auf dem Scheiterhaufen den Kopf verliert, desto ...",
+        "options": [
+            "a)  kälter wird der Zürichsee im Sommer.",
+            "b)  schöner wird der nächste Sommer.",
+            "c)  mehr Kinder wird es im kommenden Jahr geben.",
+            "d)  besser wird die Wirtschaft im kommenden Jahr laufen."
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/342.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 343,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Kanton",
+        "question": "Wofür steht die Street Parade in Zürich?",
+        "options": [
+            "a)  für Liebe, Friede, Freiheit, Grosszügigkeit und Toleranz",
+            "b)  für Demokratie und Menschenrechte",
+            "c)  für Theater und Kunst der jungen Generation",
+            "d)  für Volksmusik und Spektakel"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/343.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 344,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Kanton",
+        "question": "Was bietet das Zürcher Theater Spektakel immer im August?",
+        "options": [
+            "a)  Theater, Tanz und Musik aus der ganzen Welt",
+            "b)  Jassturniere für ältere Menschen",
+            "c)  ein Weinfest",
+            "d)  die Vorführung neuer Schweizer Filme"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/344.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 345,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Kanton",
+        "question": "Was ist ein Zürcher Sportevent?",
+        "options": [
+            "a)  Weltklasse Zürich",
+            "b)  Engadiner Skimarathon",
+            "c)  Swiss Indoors",
+            "d)  Schweizer Frauenlauf"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/345.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 346,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Kanton",
+        "question": "In diesem Museum kann man experimentieren. In welcher Stadt ist das Technorama?",
+        "options": [
+            "a)  Zürich",
+            "b)  Winterthur",
+            "c)  Aarau",
+            "d)  Zug"
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/346.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 347,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Kanton",
+        "question": "In welchem Museum kann man alles berühren und experimentieren?",
+        "options": [
+            "a)  Sammlung Reinhart «Am Römerholz»",
+            "b)  Fotomuseum Winterthur",
+            "c)  Technorama",
+            "d)  Villa Lindengut"
+        ],
+        "correct_answer": "c",
+        "explanation_en": "explanations/347.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 348,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Kanton",
+        "question": "Wo ist die Masoala-Halle mit einem Urwald aus Madagaskar?",
+        "options": [
+            "a)  im Zoo Zürich",
+            "b)  im China Garten von Zürich",
+            "c)  im alten botanischen Garten Zürich",
+            "d)  im Rieterpark in Zürich"
+        ],
+        "correct_answer": "a",
+        "explanation_en": "explanations/348.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 349,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Kanton",
+        "question": "Wer spielt eine wichtige Rolle am Zürcher Sechseläuten?",
+        "options": [
+            "a)  die Frauen",
+            "b)  die Kirchen",
+            "c)  die Gewerkschaften",
+            "d)  die Zünfte"
+        ],
+        "correct_answer": "d",
+        "explanation_en": "explanations/349.md",
+        "question_image": null,
+        "option_images": null
+    },
+    {
+        "id": 350,
+        "category": "Kultur und Alltagskultur",
+        "subcategory": "Kanton",
+        "question": "Gottfried Keller (1819-1890) war ein bekannter Zürcher ...",
+        "options": [
+            "a)  Erfinder.",
+            "b)  Schriftsteller.",
+            "c)  reformierter Pfarrer.",
+            "d)  Fabrikant."
+        ],
+        "correct_answer": "b",
+        "explanation_en": "explanations/350.md",
+        "question_image": null,
+        "option_images": null
+    }
+]

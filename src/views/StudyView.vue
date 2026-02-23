@@ -16,7 +16,7 @@ onMounted(() => {
   if (route.params.id) {
     selectedQuestionId.value = parseInt(route.params.id as string)
   } else if (store.questions.length > 0) {
-    selectedQuestionId.value = store.questions[0].id
+    selectedQuestionId.value = store.questions[0]?.id ?? null
   }
 })
 

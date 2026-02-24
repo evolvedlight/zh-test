@@ -12,6 +12,7 @@ export interface Question {
   explanation_en: string;
   question_image: string | null;
   option_images: string[] | null;
+  brochure_page?: number | null;
 }
 
 export const useQuizStore = defineStore('quiz', () => {

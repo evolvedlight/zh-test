@@ -104,6 +104,11 @@ function getImageUrl(img: string) {
 
     <footer v-if="showAnswer" class="explanation-container">
       <h3>Explanation</h3>
+      <div v-if="question.brochure_page" class="brochure-link-container">
+        <a :href="`/data/broschure.pdf#page=${question.brochure_page}`" target="_blank" rel="noopener noreferrer" class="brochure-link">
+          📖 Official Naturalization Brochure (Page {{ question.brochure_page }})
+        </a>
+      </div>
       <div class="markdown-body" v-html="explanationHtml"></div>
     </footer>
   </div>
@@ -243,6 +248,29 @@ function getImageUrl(img: string) {
   margin-top: 0;
   font-size: 1.1rem;
   color: var(--secondary);
+}
+
+.brochure-link-container {
+  margin-bottom: 1rem;
+}
+
+.brochure-link {
+  display: inline-block;
+  background-color: #f1f5f9;
+  color: #2563eb;
+  padding: 0.5rem 0.75rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.9rem;
+  border: 1px solid #cbd5e1;
+  transition: all 0.2s;
+}
+
+.brochure-link:hover {
+  background-color: #e2e8f0;
+  border-color: #94a3b8;
+  color: #1d4ed8;
 }
 
 :deep(.markdown-body) {

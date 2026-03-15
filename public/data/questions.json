@@ -39,7 +39,7 @@
         "id": 3,
         "category": "Demokratie und Föderalismus",
         "subcategory": "Bund",
-        "question": "Confoederatio Helvetica ...",
+        "question": "Confoederatio Helvetica...",
         "options": [
             "a)  ist der Name einer Schweizer Schokolade.",
             "b)  ist der lateinische Name für die Schweizer Eidgenossenschaft.",
@@ -75,18 +75,19 @@
         "id": 5,
         "category": "Demokratie und Föderalismus",
         "subcategory": "Bund",
-        "question": "Zwischen den Mitgliedern des Bundesrats gilt das Kollegialitätsprin- zip. Was heisst das?",
+        "question": "Zwischen den Mitgliedern des Bundesrats gilt das Kollegialitätsprinzip. Was heisst das?",
         "options": [
             "a)  Die Mitglieder des Bundesrates müssen sich gut kennen.",
             "b)  Jeder Bundesrat vertritt seine eigenen politischen Meinungen.",
-            "c)  Alle Mitglieder müssen Entscheide des Bundesrates nach aussen gleich vertre- ten.",
+            "c)  Alle Mitglieder müssen Entscheide des Bundesrates nach aussen gleich vertreten.",
             "d)  Der Bundesrat Entscheidungen mit Abstimmung."
         ],
         "correct_answer": "c",
         "explanation_en": "explanations/5.md",
         "question_image": null,
         "option_images": null,
-        "brochure_page": 19
+        "brochure_page": 19,
+        "reviewed": true
     },
     {
         "id": 6,
@@ -103,7 +104,8 @@
         "explanation_en": "explanations/6.md",
         "question_image": null,
         "option_images": null,
-        "brochure_page": 24
+        "brochure_page": 24,
+        "reviewed": true
     },
     {
         "id": 7,
@@ -120,7 +122,8 @@
         "explanation_en": "explanations/7.md",
         "question_image": null,
         "option_images": null,
-        "brochure_page": 18
+        "brochure_page": 18,
+        "reviewed": true
     },
     {
         "id": 8,
@@ -137,7 +140,8 @@
         "explanation_en": "explanations/8.md",
         "question_image": null,
         "option_images": null,
-        "brochure_page": 24
+        "brochure_page": 24,
+        "reviewed": true
     },
     {
         "id": 9,
@@ -147,20 +151,21 @@
         "options": [
             "a)  Sie dürfen an Abstimmungen und Wahlen teilnehmen, wenn sie in der Schweiz zu Besuch sind.",
             "b)  Sie verlieren alle politischen Rechte in der Schweiz.",
-            "c)  Sie können an nationalen Abstimmungen und Wahlen teilnehmen, ohne deswe- gen in die Schweiz reisen zu müssen.",
+            "c)  Sie können an nationalen Abstimmungen und Wahlen teilnehmen, ohne deswegen in die Schweiz reisen zu müssen.",
             "d)  Sie dürfen sich im Gastland in keiner Weise politisch engagieren."
         ],
         "correct_answer": "c",
         "explanation_en": "explanations/9.md",
         "question_image": null,
         "option_images": null,
-        "brochure_page": 22
+        "brochure_page": 22,
+        "reviewed": true
     },
     {
         "id": 10,
         "category": "Demokratie und Föderalismus",
         "subcategory": "Bund",
-        "question": "Wer in der Schweiz wählen und abstimmen will, …",
+        "question": "Wer in der Schweiz wählen und abstimmen will, …?",
         "options": [
             "a)  muss das Schweizer Bürgerrecht haben.",
             "b)  muss einen Computer haben.",
@@ -171,7 +176,8 @@
         "explanation_en": "explanations/10.md",
         "question_image": null,
         "option_images": null,
-        "brochure_page": 22
+        "brochure_page": 22,
+        "reviewed": true
     },
     {
         "id": 11,
@@ -188,7 +194,8 @@
         "explanation_en": "explanations/11.md",
         "question_image": null,
         "option_images": null,
-        "brochure_page": 25
+        "brochure_page": 25,
+        "reviewed": true
     },
     {
         "id": 12,
@@ -205,7 +212,8 @@
         "explanation_en": "explanations/12.md",
         "question_image": null,
         "option_images": null,
-        "brochure_page": 13
+        "brochure_page": 13,
+        "reviewed": true
     },
     {
         "id": 13,
@@ -222,7 +230,8 @@
         "explanation_en": "explanations/13.md",
         "question_image": null,
         "option_images": null,
-        "brochure_page": 13
+        "brochure_page": 13,
+        "reviewed": true
     },
     {
         "id": 14,
@@ -239,7 +248,8 @@
         "explanation_en": "explanations/14.md",
         "question_image": null,
         "option_images": null,
-        "brochure_page": 30
+        "brochure_page": 30,
+        "reviewed": true
     },
     {
         "id": 15,
@@ -347,7 +357,7 @@
         "id": 21,
         "category": "Demokratie und Föderalismus",
         "subcategory": "Bund",
-        "question": "Die Schweiz ist …",
+        "question": "Die Schweiz ist ….",
         "options": [
             "a)  eine Diktatur.",
             "b)  ein absolutistischer Staat.",
@@ -551,7 +561,7 @@
         "id": 33,
         "category": "Demokratie und Föderalismus",
         "subcategory": "Bund",
-        "question": "Weshalb ist die Volksinitiative ein wichtiges politisches Recht der Stimmbürgerinnen und Stimmbürger? Sie können mit der Volksinitiative …",
+        "question": "Weshalb ist die Volksinitiative ein wichtiges politisches Recht der Stimmbürgerinnen und Stimmbürger? Sie können mit der Volksinitiative ….",
         "options": [
             "a)  das Parlament ausschalten.",
             "b)  die Regierung abwählen.",
@@ -568,7 +578,7 @@
         "id": 34,
         "category": "Demokratie und Föderalismus",
         "subcategory": "Bund",
-        "question": "Wie oft wählen die Stimmbürgerinnen und Stimmbürger das Bun- desparlament?",
+        "question": "Wie oft wählen die Stimmbürgerinnen und Stimmbürger das Bundesparlament?",
         "options": [
             "a)  alle 6 Jahre",
             "b)  alle 2 Jahre",
@@ -619,7 +629,7 @@
         "id": 37,
         "category": "Demokratie und Föderalismus",
         "subcategory": "Bund",
-        "question": "Was ist die zentrale Aufgabe der Bundesversammlung (Bundesparla- ment)?",
+        "question": "Was ist die zentrale Aufgabe der Bundesversammlung (Bundesparlament)?",
         "options": [
             "a)  Sie organisiert Wahlen und Abstimmungen.",
             "b)  Sie berät und beschliesst Gesetze.",
@@ -653,7 +663,7 @@
         "id": 39,
         "category": "Demokratie und Föderalismus",
         "subcategory": "Bund",
-        "question": "Das Bundeshaus in Bern ist der Sitz …",
+        "question": "Das Bundeshaus in Bern ist der Sitz ….",
         "options": [
             "a)  des Nationalmuseums.",
             "b)  der Bundesversammlung (Schweizer Parlament).",
@@ -721,7 +731,7 @@
         "id": 43,
         "category": "Demokratie und Föderalismus",
         "subcategory": "Bund",
-        "question": "Wie viele Unterschriften braucht es für eine Volksinitiative auf Bun- desebene?",
+        "question": "Wie viele Unterschriften braucht es für eine Volksinitiative auf Bundesebene?",
         "options": [
             "a)  30'000",
             "b)  100'000",
@@ -772,7 +782,7 @@
         "id": 46,
         "category": "Demokratie und Föderalismus",
         "subcategory": "Bund",
-        "question": "Wie oft pro Jahr stimmt das Stimmvolk normalerweise in Bundesange- legenheiten ab?",
+        "question": "Wie oft pro Jahr stimmt das Stimmvolk normalerweise in Bundesangelegenheiten ab?",
         "options": [
             "a)  5",
             "b)  3",
@@ -823,7 +833,7 @@
         "id": 49,
         "category": "Demokratie und Föderalismus",
         "subcategory": "Bund",
-        "question": "Durch eine Volksinitiative kann …",
+        "question": "Durch eine Volksinitiative kann ….",
         "options": [
             "a)  der National- und Ständerat abgesetzt werden.",
             "b)  die Bundesverfassung geändert werden.",
@@ -1290,7 +1300,7 @@
         "question": "Die Schweiz ist ein Rechtsstaat. Was bedeutet das?",
         "options": [
             "a)  Auch der Staat muss sich an die Gesetze halten.",
-            "b)  Die Gesetze gelten nur für die Personen, die diesen Gesetzen zugestimmt ha- ben.",
+            "b)  Die Gesetze gelten nur für die Personen, die diesen Gesetzen zugestimmt haben.",
             "c)  Die Gesetze gelten nur für Schweizer Bürgerinnen und Bürger.",
             "d)  Die Gesetze gelten nicht für Politikerinnen und Politiker."
         ],
@@ -1409,7 +1419,7 @@
         "question": "Welches Recht bekommen Personen erst mit der Einbürgerung?",
         "options": [
             "a)  Sie dürfen einem Verein beitreten.",
-            "b)  Sie dürfen an politischen Wahlen und Abstimmungen auf Bundesebene teilneh- men.",
+            "b)  Sie dürfen an politischen Wahlen und Abstimmungen auf Bundesebene teilnehmen.",
             "c)  Sie dürfen eine Wohnung kaufen.",
             "d)  Sie dürfen den Arbeitsplatz frei wählen."
         ],
@@ -1428,7 +1438,7 @@
             "a)  Wenn der persönliche Computer nicht genügend geschützt ist.",
             "b)  Wenn eine Person auf einer öffentlichen Strasse fotografiert wird.",
             "c)  Wenn eine Zeitung über eine Person berichtet.",
-            "d)  Wenn private Informationen über einzelne Personen ohne gesetzliche Grund- lage oder ohne Zustimmung der Person veröffentlicht werden."
+            "d)  Wenn private Informationen über einzelne Personen ohne gesetzliche Grundlage oder ohne Zustimmung der Person veröffentlicht werden."
         ],
         "correct_answer": "d",
         "explanation_en": "explanations/84.md",
@@ -1527,7 +1537,7 @@
         "subcategory": "Bund",
         "question": "Welche Pflicht gilt in der Schweiz nur für Männer?",
         "options": [
-            "a)  Männer müssen bis zu einem bestimmten Alter Militärdienst oder Zivilschutz- dienst leisten.",
+            "a)  Männer müssen bis zu einem bestimmten Alter Militärdienst oder Zivilschutzdienst leisten.",
             "b)  Männer müssen bei Bedarf ein politisches Amt übernehmen.",
             "c)  Männer müssen für den Unterhalt der Familie sorgen.",
             "d)  Männer müssen mehr Steuern und Krankenkassenprämien bezahlen."
@@ -1593,7 +1603,7 @@
         "id": 94,
         "category": "Demokratie und Föderalismus",
         "subcategory": "Bund",
-        "question": "In der Schweiz gibt es verschiedene Gesetze. Welches regelt das Mie- ten von Wohnungen?",
+        "question": "In der Schweiz gibt es verschiedene Gesetze. Welches regelt das Mieten von Wohnungen?",
         "options": [
             "a)  Obligationenrecht (OR)",
             "b)  Mehrwertsteuergesetz (MWSTG)",
@@ -1610,7 +1620,7 @@
         "id": 95,
         "category": "Demokratie und Föderalismus",
         "subcategory": "Bund",
-        "question": "In der Schweiz gibt es verschiedene Gesetze. Was regelt das Zivilge- setzbuch (ZGB)?",
+        "question": "In der Schweiz gibt es verschiedene Gesetze. Was regelt das Zivilgesetzbuch (ZGB)?",
         "options": [
             "a)  Eheschliessungen und Scheidungen",
             "b)  Firmengründungen",
@@ -1627,7 +1637,7 @@
         "id": 96,
         "category": "Demokratie und Föderalismus",
         "subcategory": "Bund",
-        "question": "In der Schweiz gibt es verschiedene Gesetze. Welches regelt, ob je- mand ins Gefängnis muss?",
+        "question": "In der Schweiz gibt es verschiedene Gesetze. Welches regelt, ob jemand ins Gefängnis muss?",
         "options": [
             "a)  Obligationenrecht (OR)",
             "b)  Zivilgesetzbuch (ZGB)",
@@ -1661,7 +1671,7 @@
         "id": 98,
         "category": "Demokratie und Föderalismus",
         "subcategory": "Bund",
-        "question": "Dürfen Schweizer Bürgerinnen und Bürger an andere Länder ausgelie- fert werden?",
+        "question": "Dürfen Schweizer Bürgerinnen und Bürger an andere Länder ausgeliefert werden?",
         "options": [
             "a)  Nein. Dies ist unter keinen Umständen erlaubt.",
             "b)  Ja, aber nur an Länder welche demokratisch organisiert sind.",
@@ -1780,7 +1790,7 @@
         "id": 105,
         "category": "Demokratie und Föderalismus",
         "subcategory": "Kanton",
-        "question": "Wie können im Kanton Zürich auch Personen ohne Schweizer Pass po- litisch aktiv werden?",
+        "question": "Wie können im Kanton Zürich auch Personen ohne Schweizer Pass politisch aktiv werden?",
         "options": [
             "a)  mit einem Referendum.",
             "b)  mit einer Petition.",
@@ -2040,7 +2050,7 @@
         "id": 120,
         "category": "Demokratie und Föderalismus",
         "subcategory": "Gemeinde",
-        "question": "Wer erteilt die Baubewilligung für ein Einfamilienhaus im Kanton Zü- rich?",
+        "question": "Wer erteilt die Baubewilligung für ein Einfamilienhaus im Kanton Zürich?",
         "options": [
             "a)  der Nachbar",
             "b)  die Gemeinde",
@@ -2091,7 +2101,7 @@
         "id": 123,
         "category": "Demokratie und Föderalismus",
         "subcategory": "Gemeinde",
-        "question": "Bürgerinnen und Bürger können auf Gemeindeebene politisch ent- scheiden, indem sie ...",
+        "question": "Bürgerinnen und Bürger können auf Gemeindeebene politisch entscheiden, indem sie...",
         "options": [
             "a)  regelmässig an Volksfesten teilnehmen.",
             "b)  die Steuern rechtzeitig bezahlen.",
@@ -2159,7 +2169,7 @@
         "id": 127,
         "category": "Demokratie und Föderalismus",
         "subcategory": "Gemeinde",
-        "question": "Wie nennt man die oberste Repräsentantin oder den obersten Reprä- sentanten in kleineren Zürcher Gemeinden?",
+        "question": "Wie nennt man die oberste Repräsentantin oder den obersten Repräsentanten in kleineren Zürcher Gemeinden?",
         "options": [
             "a)  Bürgermeisterin oder Bürgermeister",
             "b)  Gemeindeammann",
@@ -2176,10 +2186,10 @@
         "id": 128,
         "category": "Sozialstaat und Zivilgesellschaft",
         "subcategory": "Bund",
-        "question": "Die Steuererklärung ...",
+        "question": "Die Steuererklärung...",
         "options": [
             "a)  beschreibt das Vorgehen bei Abgabe der Steuer.",
-            "b)  weist die finanzielle Situation des Steuerzahlenden gegenüber der Steuerbe- hörde aus.",
+            "b)  weist die finanzielle Situation des Steuerzahlenden gegenüber der Steuerbehörde aus.",
             "c)  belegt gegenüber der Steuerbehörde die Lotteriegewinne.",
             "d)  beschreibt, wie man die Formulare für die Steuerbehörde ausfüllen muss."
         ],
@@ -2227,7 +2237,7 @@
         "id": 131,
         "category": "Sozialstaat und Zivilgesellschaft",
         "subcategory": "Bund",
-        "question": "Arbeitnehmende und Selbständigerwerbende mit Kindern haben An- spruch auf …",
+        "question": "Arbeitnehmende und Selbständigerwerbende mit Kindern haben Anspruch auf ….",
         "options": [
             "a)  Kinderbegünstigung.",
             "b)  Elternentlastung.",
@@ -2244,7 +2254,7 @@
         "id": 132,
         "category": "Sozialstaat und Zivilgesellschaft",
         "subcategory": "Bund",
-        "question": "Der Zivildienst in der Schweiz ist ...",
+        "question": "Der Zivildienst in der Schweiz ist...",
         "options": [
             "a)  für alle Männer und Frauen obligatorisch.",
             "b)  ein freiwilliger Einsatz für die Gesellschaft.",
@@ -2261,12 +2271,12 @@
         "id": 133,
         "category": "Sozialstaat und Zivilgesellschaft",
         "subcategory": "Bund",
-        "question": "Welche Aussage zur obligatorischen Versicherung in einer Kranken- kasse in der Schweiz ist richtig?",
+        "question": "Welche Aussage zur obligatorischen Versicherung in einer Krankenkasse in der Schweiz ist richtig?",
         "options": [
             "a)  Jede Krankenkasse bestimmt ihre Leistungen selbst.",
             "b)  Man kann die Krankenkasse frei wählen.",
             "c)  Es ist freiwillig, eine Krankenkasse zu haben.",
-            "d)  Der Kanton kann seinen Einwohnerinnen und Einwohnern eine Krankenkasse zu- teilen."
+            "d)  Der Kanton kann seinen Einwohnerinnen und Einwohnern eine Krankenkasse zuteilen."
         ],
         "correct_answer": "b",
         "explanation_en": "explanations/133.md",
@@ -2448,7 +2458,7 @@
         "id": 144,
         "category": "Sozialstaat und Zivilgesellschaft",
         "subcategory": "Bund",
-        "question": "In der Schweiz sind seit 2002 Abtreibungen mit der Fristenlösung ge- regelt. Was bedeutet das?",
+        "question": "In der Schweiz sind seit 2002 Abtreibungen mit der Fristenlösung geregelt. Was bedeutet das?",
         "options": [
             "a)  Eine Frau darf bis zur 12. Woche der Schwangerschaft frei entscheiden, ob sie das Kind behalten will.",
             "b)  Eine Frau braucht die Erlaubnis ihres Ehemannes, um abzutreiben.",
@@ -2516,7 +2526,7 @@
         "id": 148,
         "category": "Sozialstaat und Zivilgesellschaft",
         "subcategory": "Bund",
-        "question": "Wenn man mit der Steuerrechnung nicht einverstanden ist, ...",
+        "question": "Wenn man mit der Steuerrechnung nicht einverstanden ist,...",
         "options": [
             "a)  bezahlt man vorläufig nur die Hälfte des Betrags.",
             "b)  muss man sie an die Steuerbehörden zurück schicken.",
@@ -2584,7 +2594,7 @@
         "id": 152,
         "category": "Sozialstaat und Zivilgesellschaft",
         "subcategory": "Bund",
-        "question": "Was wird Angestellten direkt vom Lohn abgezogen? Der Beitrag für die ...",
+        "question": "Was wird Angestellten direkt vom Lohn abgezogen? Der Beitrag für die...",
         "options": [
             "a)  Auto- und Unfallversicherung (AUV).",
             "b)  Arbeitslosenversicherung (ALV).",
@@ -2754,7 +2764,7 @@
         "id": 162,
         "category": "Sozialstaat und Zivilgesellschaft",
         "subcategory": "Bund",
-        "question": "Wer entscheidet darüber, in welche Klasse ein Kind in der Primar- schule kommt?",
+        "question": "Wer entscheidet darüber, in welche Klasse ein Kind in der Primarschule kommt?",
         "options": [
             "a)  die Eltern",
             "b)  die Schulleitung oder die Schulpflege",
@@ -2771,7 +2781,7 @@
         "id": 163,
         "category": "Sozialstaat und Zivilgesellschaft",
         "subcategory": "Bund",
-        "question": "Die Erziehung der Kinder ist vor allem Aufgabe …",
+        "question": "Die Erziehung der Kinder ist vor allem Aufgabe ….",
         "options": [
             "a)  des Staats.",
             "b)  der Grosseltern.",
@@ -2805,7 +2815,7 @@
         "id": 165,
         "category": "Sozialstaat und Zivilgesellschaft",
         "subcategory": "Bund",
-        "question": "Eine Angestellte darf nicht entlassen werden, wenn sie ...",
+        "question": "Eine Angestellte darf nicht entlassen werden, wenn sie...",
         "options": [
             "a)  immer pünktlich war.",
             "b)  die Kündigung ablehnt.",
@@ -2822,7 +2832,7 @@
         "id": 166,
         "category": "Sozialstaat und Zivilgesellschaft",
         "subcategory": "Bund",
-        "question": "Gewerkschaften vertreten die Interessen von ...",
+        "question": "Gewerkschaften vertreten die Interessen von...",
         "options": [
             "a)  Arbeitgeberinnen und Arbeitgebern.",
             "b)  Arbeitnehmerinnen und Arbeitnehmern.",
@@ -2856,7 +2866,7 @@
         "id": 168,
         "category": "Sozialstaat und Zivilgesellschaft",
         "subcategory": "Bund",
-        "question": "An wen können sich Arbeitnehmerinnen und Arbeitnehmer bei arbeits- rechtlichen Fragen wenden?",
+        "question": "An wen können sich Arbeitnehmerinnen und Arbeitnehmer bei arbeitsrechtlichen Fragen wenden?",
         "options": [
             "a)  an Anwälte, Gewerkschaften und Arbeitsgerichte",
             "b)  an die Steuerverwaltung",
@@ -2873,7 +2883,7 @@
         "id": 169,
         "category": "Sozialstaat und Zivilgesellschaft",
         "subcategory": "Bund",
-        "question": "Was muss man machen, wenn man ein Arbeitsverhältnis regulär been- den will?",
+        "question": "Was muss man machen, wenn man ein Arbeitsverhältnis regulär beenden will?",
         "options": [
             "a)  warten, bis die Chefin oder der Chef aus den Ferien zurück ist",
             "b)  den Arbeitsplatz räumen und dann dem Arbeitsplatz fern bleiben",
@@ -2890,7 +2900,7 @@
         "id": 170,
         "category": "Sozialstaat und Zivilgesellschaft",
         "subcategory": "Bund",
-        "question": "Economiesuisse vertritt die Interessen ...",
+        "question": "Economiesuisse vertritt die Interessen...",
         "options": [
             "a)  der Angestellten.",
             "b)  der Unternehmen.",
@@ -2907,7 +2917,7 @@
         "id": 171,
         "category": "Sozialstaat und Zivilgesellschaft",
         "subcategory": "Bund",
-        "question": "Was ist in einem Arbeitsvertrag unter anderem geregelt? Es ist gere- gelt, ...",
+        "question": "Was ist in einem Arbeitsvertrag unter anderem geregelt? Es ist geregelt,...",
         "options": [
             "a)  welche Krankenkasse man wählen muss.",
             "b)  wie hoch die Altersrente ist.",
@@ -2944,7 +2954,7 @@
         "question": "Was ist ein Berufsbildungszentrum?",
         "options": [
             "a)  eine Arbeitsvermittlungsstelle",
-            "b)  ein Standort, an dem unterschiedliche Angebote zur beruflichen Bildung beitra- gen",
+            "b)  ein Standort, an dem unterschiedliche Angebote zur beruflichen Bildung beitragen",
             "c)  eine Fachhochschule",
             "d)  ein arbeitstechnisches Forschungszentrum"
         ],
@@ -3043,7 +3053,7 @@
         "id": 179,
         "category": "Sozialstaat und Zivilgesellschaft",
         "subcategory": "Bund",
-        "question": "Wann hat man als Arbeitnehmerin oder Arbeitnehmer Anrecht auf be- zahlte freie Stunden oder Tage am Arbeitsplatz?",
+        "question": "Wann hat man als Arbeitnehmerin oder Arbeitnehmer Anrecht auf bezahlte freie Stunden oder Tage am Arbeitsplatz?",
         "options": [
             "a)  bei Stromausfall",
             "b)  für die Ausübung eines öffentlichen Amtes",
@@ -3080,9 +3090,9 @@
         "question": "Welche Aussage zum Mutterschaftsurlaub in der Schweiz ist richtig?",
         "options": [
             "a)  Der Mutterschaftsurlaub beträgt 20 Wochen.",
-            "b)  Die normalen Ferien nach der Geburt des Kindes muss man zuerst aufbrau- chen. Danach gibt es Mutterschaftsurlaub.",
-            "c)  Den Mutterschaftsurlaub dürfen Frauen im Alter von 20 bis 50 Jahren nur ein- mal beziehen.",
-            "d)  Jede Frau, die arbeitet und ein Kind bekommt, hat das Recht auf Mutterschaftsur- laub."
+            "b)  Die normalen Ferien nach der Geburt des Kindes muss man zuerst aufbrauchen. Danach gibt es Mutterschaftsurlaub.",
+            "c)  Den Mutterschaftsurlaub dürfen Frauen im Alter von 20 bis 50 Jahren nur einmal beziehen.",
+            "d)  Jede Frau, die arbeitet und ein Kind bekommt, hat das Recht auf Mutterschaftsurlaub."
         ],
         "correct_answer": "d",
         "explanation_en": "explanations/181.md",
@@ -3094,7 +3104,7 @@
         "id": 182,
         "category": "Sozialstaat und Zivilgesellschaft",
         "subcategory": "Bund",
-        "question": "Was ist in der Schweiz verboten? Es ist verboten, …",
+        "question": "Was ist in der Schweiz verboten? Es ist verboten, …?",
         "options": [
             "a)  als Mann und Frau unverheiratet zusammen zu leben.",
             "b)  als erwachsene Person mit den Eltern zusammen zu leben.",
@@ -3179,7 +3189,7 @@
         "id": 187,
         "category": "Sozialstaat und Zivilgesellschaft",
         "subcategory": "Bund",
-        "question": "Wen muss man auf begründetes Verlangen in die eigene Wohnung las- sen?",
+        "question": "Wen muss man auf begründetes Verlangen in die eigene Wohnung lassen?",
         "options": [
             "a)  die Pöstlerin oder den Pöstler",
             "b)  die Vermieterin oder den Vermieter",
@@ -3252,7 +3262,7 @@
             "a)  immer einen Doppelnamen mit dem Namen der Mutter zuerst",
             "b)  immer den Namen des Vaters",
             "c)  immer den Namen der Mutter",
-            "d)  muss von den Eltern ohne gemeinsamen Familiennamen bei der Heirat ent- schieden werden"
+            "d)  muss von den Eltern ohne gemeinsamen Familiennamen bei der Heirat entschieden werden"
         ],
         "correct_answer": "d",
         "explanation_en": "explanations/191.md",
@@ -3264,7 +3274,7 @@
         "id": 192,
         "category": "Sozialstaat und Zivilgesellschaft",
         "subcategory": "Bund",
-        "question": "Besitzer eines Hundes müssen für ihren Hund …",
+        "question": "Besitzer eines Hundes müssen für ihren Hund ….",
         "options": [
             "a)  einen Namen haben.",
             "b)  eine Geburtsurkunde besitzen.",
@@ -3332,7 +3342,7 @@
         "id": 196,
         "category": "Sozialstaat und Zivilgesellschaft",
         "subcategory": "Kanton",
-        "question": "Was gehört zu den wichtigsten Kantonssteuern und Gemeindesteu- ern?",
+        "question": "Was gehört zu den wichtigsten Kantonssteuern und Gemeindesteuern?",
         "options": [
             "a)  Vermögenssteuer",
             "b)  Tabaksteuer",
@@ -3405,7 +3415,7 @@
             "a)  Ein Verein, der die Rechte eines Quartiers gegenüber dem Bund und dem Kanton regelt.",
             "b)  Ein Verein, der für die Interessen der Bewohnerinnen und Bewohner eines Quartiers gegenüber Behörden eintritt und das gesellschaftliche Leben fördert.",
             "c)  Ein Verein, in dem Bewohnerinnen und Bewohner eines Quartiers automatisch Mitglied sind.",
-            "d)  Ein Verein, der die Verkehrswege innerhalb eines Quartiers regelt und die Ein- haltung der Verkehrsvorschriften kontrolliert."
+            "d)  Ein Verein, der die Verkehrswege innerhalb eines Quartiers regelt und die Einhaltung der Verkehrsvorschriften kontrolliert."
         ],
         "correct_answer": "b",
         "explanation_en": "explanations/200.md",
@@ -3434,7 +3444,7 @@
         "id": 202,
         "category": "Sozialstaat und Zivilgesellschaft",
         "subcategory": "Gemeinde",
-        "question": "Welche Unterstützung gibt die Gemeinde, wenn das eigene Einkom- men oder Vermögen für den Lebensunterhalt nicht ausreicht?",
+        "question": "Welche Unterstützung gibt die Gemeinde, wenn das eigene Einkommen oder Vermögen für den Lebensunterhalt nicht ausreicht?",
         "options": [
             "a)  Geld für Mahlzeiten (Kostgeld)",
             "b)  einen Gemeindebeitrag (Gemeinderappen)",
@@ -3451,7 +3461,7 @@
         "id": 203,
         "category": "Sozialstaat und Zivilgesellschaft",
         "subcategory": "Gemeinde",
-        "question": "Wo kann man sich über Angebote und Regelungen der Gemeinde infor- mieren?",
+        "question": "Wo kann man sich über Angebote und Regelungen der Gemeinde informieren?",
         "options": [
             "a)  in der Lokalzeitung oder im Internet",
             "b)  im Fernsehen",
@@ -3485,7 +3495,7 @@
         "id": 205,
         "category": "Sozialstaat und Zivilgesellschaft",
         "subcategory": "Gemeinde",
-        "question": "Wer ist zuständig für die Finanzierung und Organisation der Primar- schule?",
+        "question": "Wer ist zuständig für die Finanzierung und Organisation der Primarschule?",
         "options": [
             "a)  die Eltern",
             "b)  der Kanton mit den Gemeinden",
@@ -3689,7 +3699,7 @@
         "id": 217,
         "category": "Geschichte",
         "subcategory": "Bund",
-        "question": "Wann haben Schweizer Frauen das Stimm- und Wahlrecht auf Bundes- ebene bekommen?",
+        "question": "Wann haben Schweizer Frauen das Stimm- und Wahlrecht auf Bundesebene bekommen?",
         "options": [
             "a)  1918",
             "b)  1971",
@@ -3706,7 +3716,7 @@
         "id": 218,
         "category": "Geschichte",
         "subcategory": "Bund",
-        "question": "In den 1950er-Jahren brauchte die Schweiz ausländische Arbeits- kräfte. Woher kamen die meisten?",
+        "question": "In den 1950er-Jahren brauchte die Schweiz ausländische Arbeitskräfte. Woher kamen die meisten?",
         "options": [
             "a)  Portugal",
             "b)  Frankreich",
@@ -3757,7 +3767,7 @@
         "id": 221,
         "category": "Geschichte",
         "subcategory": "Bund",
-        "question": "In der Schweiz begann die Industrialisierung im frühen 19. Jahrhun- dert. Was war dabei am wichtigsten?",
+        "question": "In der Schweiz begann die Industrialisierung im frühen 19. Jahrhundert. Was war dabei am wichtigsten?",
         "options": [
             "a)  Textilindustrie",
             "b)  Stahlindustrie",
@@ -3791,7 +3801,7 @@
         "id": 223,
         "category": "Geschichte",
         "subcategory": "Bund",
-        "question": "Im 19. Jahrhundert wandelte sich die Schweiz ...",
+        "question": "Im 19. Jahrhundert wandelte sich die Schweiz...",
         "options": [
             "a)  vom Bundesstaat zum Zentralstaat.",
             "b)  zu einer europäischen Grossmacht.",
@@ -3825,12 +3835,12 @@
         "id": 225,
         "category": "Geschichte",
         "subcategory": "Bund",
-        "question": "Während der kolonialen Herrschaft Europas ...",
+        "question": "Während der kolonialen Herrschaft Europas...",
         "options": [
             "a)  hatte die Schweiz Kolonien in Asien und Afrika.",
             "b)  waren Schweizer Söldner in Russland aktiv.",
             "c)  exportierte die Schweiz Gewürze nach Nordamerika.",
-            "d)  konnte sich die Schweiz dank Zugang zu Rohstoffen als Industrienation etablie- ren."
+            "d)  konnte sich die Schweiz dank Zugang zu Rohstoffen als Industrienation etablieren."
         ],
         "correct_answer": "d",
         "explanation_en": "explanations/225.md",
@@ -3893,7 +3903,7 @@
         "id": 229,
         "category": "Geschichte",
         "subcategory": "Bund",
-        "question": "Von welcher antiken Herrschaft und Kultur stammt das hier abgebil- dete Amphitheater (in Avenches)?",
+        "question": "Von welcher antiken Herrschaft und Kultur stammt das hier abgebildete Amphitheater (in Avenches)?",
         "options": [
             "a)  von den Galliern",
             "b)  von den Römern",
@@ -4012,7 +4022,7 @@
         "id": 236,
         "category": "Geschichte",
         "subcategory": "Bund",
-        "question": "Welche wichtige humanitäre Organisation wurde 1863 in Genf gegrün- det?",
+        "question": "Welche wichtige humanitäre Organisation wurde 1863 in Genf gegründet?",
         "options": [
             "a)  Amnesty International",
             "b)  die Pro Juventute",
@@ -4046,10 +4056,10 @@
         "id": 238,
         "category": "Geschichte",
         "subcategory": "Bund",
-        "question": "Im Jahr 1877 hat man die Kinderarbeit in der Schweiz verboten. Wa- rum?",
+        "question": "Im Jahr 1877 hat man die Kinderarbeit in der Schweiz verboten. Warum?",
         "options": [
             "a)  Kinder mussten zuhause auf den Bauernhöfen mithelfen.",
-            "b)  Kinder konnten bei schweren und gefährlichen Arbeiten sowieso nicht einge- setzt werden.",
+            "b)  Kinder konnten bei schweren und gefährlichen Arbeiten sowieso nicht eingesetzt werden.",
             "c)  Kinder konnten nicht zur Schule gehen, weil sie in Fabriken arbeiteten.",
             "d)  Kinder wurden zur Arbeit ausgeliehen. Sie verdienten dort aber zu wenig."
         ],
@@ -4182,7 +4192,7 @@
         "id": 246,
         "category": "Geschichte",
         "subcategory": "Bund",
-        "question": "Weshalb wanderten viele Schweizerinnen und Schweizer im 19. Jahr- hundert aus?",
+        "question": "Weshalb wanderten viele Schweizerinnen und Schweizer im 19. Jahrhundert aus?",
         "options": [
             "a)  Weil sie in der Schweiz politisch verfolgt wurden.",
             "b)  Weil sie Berufserfahrung sammeln wollten.",
@@ -4216,7 +4226,7 @@
         "id": 248,
         "category": "Geschichte",
         "subcategory": "Kanton",
-        "question": "Zur Römerzeit war der Name der Stadt Zürich …",
+        "question": "Zur Römerzeit war der Name der Stadt Zürich ….",
         "options": [
             "a)  Vitudurum",
             "b)  Vindonissa",
@@ -4250,7 +4260,7 @@
         "id": 250,
         "category": "Geschichte",
         "subcategory": "Kanton",
-        "question": "Von 5000 bis 1000 vor Christus bauten die Menschen am Zürichsee …",
+        "question": "Von 5000 bis 1000 vor Christus bauten die Menschen am Zürichsee ….",
         "options": [
             "a)  Iglus.",
             "b)  Pfahlbauten.",
@@ -4267,7 +4277,7 @@
         "id": 251,
         "category": "Geschichte",
         "subcategory": "Kanton",
-        "question": "An was starb zwischen 1611 und 1635 fast die Hälfte der Zürcher Be- völkerung?",
+        "question": "An was starb zwischen 1611 und 1635 fast die Hälfte der Zürcher Bevölkerung?",
         "options": [
             "a)  an der Pest",
             "b)  am Corona-Virus",
@@ -4284,7 +4294,7 @@
         "id": 252,
         "category": "Geschichte",
         "subcategory": "Kanton",
-        "question": "Ulrich Zwingli (1484-1531) war ein bekannter ...",
+        "question": "Ulrich Zwingli (1484-1531) war ein bekannter...",
         "options": [
             "a)  Reformator in Zürich.",
             "b)  Unternehmer.",
@@ -4301,7 +4311,7 @@
         "id": 253,
         "category": "Geschichte",
         "subcategory": "Kanton",
-        "question": "Den Kanton Zürich im modernen Sinn gibt es seit ...",
+        "question": "Den Kanton Zürich im modernen Sinn gibt es seit...",
         "options": [
             "a)  1415",
             "b)  1291",
@@ -4386,7 +4396,7 @@
         "id": 258,
         "category": "Geografie",
         "subcategory": "Bund",
-        "question": "Simplon, Gotthard, Grosser Sankt Bernhard sind Beispiele für ...",
+        "question": "Simplon, Gotthard, Grosser Sankt Bernhard sind Beispiele für...",
         "options": [
             "a)  Schweizer Käsesorten.",
             "b)  Schweizer Hauptverkehrsachsen.",
@@ -4437,7 +4447,7 @@
         "id": 261,
         "category": "Geografie",
         "subcategory": "Bund",
-        "question": "Rund zwei Drittel der ausländischen Bevölkerung der Schweiz ...",
+        "question": "Rund zwei Drittel der ausländischen Bevölkerung der Schweiz...",
         "options": [
             "a)  kommen aus einem EU-Land.",
             "b)  kommen aus Italien.",
@@ -4454,7 +4464,7 @@
         "id": 262,
         "category": "Geografie",
         "subcategory": "Bund",
-        "question": "Aus geografischer Sicht ist die Schweiz ...",
+        "question": "Aus geografischer Sicht ist die Schweiz...",
         "options": [
             "a)  ein Binnenland.",
             "b)  eine Exklave.",
@@ -4471,7 +4481,7 @@
         "id": 263,
         "category": "Geografie",
         "subcategory": "Bund",
-        "question": "Über das Eisenbahnnetz der Schweiz sagt man, ...",
+        "question": "Über das Eisenbahnnetz der Schweiz sagt man,...",
         "options": [
             "a)  es sei das schönste der Welt.",
             "b)  es sei das dichteste der Welt.",
@@ -4522,7 +4532,7 @@
         "id": 266,
         "category": "Geografie",
         "subcategory": "Bund",
-        "question": "Die Ausdehnung der Schweiz von Norden nach Süden ist ...",
+        "question": "Die Ausdehnung der Schweiz von Norden nach Süden ist...",
         "options": [
             "a)  580 km.",
             "b)  220 km.",
@@ -4539,7 +4549,7 @@
         "id": 267,
         "category": "Geografie",
         "subcategory": "Bund",
-        "question": "Die Ausdehnung der Schweiz von Osten nach Westen ist ...",
+        "question": "Die Ausdehnung der Schweiz von Osten nach Westen ist...",
         "options": [
             "a)  700 km.",
             "b)  150 km.",
@@ -4658,7 +4668,7 @@
         "id": 274,
         "category": "Geografie",
         "subcategory": "Bund",
-        "question": "Die Schweiz grenzt im Westen an …",
+        "question": "Die Schweiz grenzt im Westen an ….",
         "options": [
             "a)  Portugal.",
             "b)  Spanien.",
@@ -4675,7 +4685,7 @@
         "id": 275,
         "category": "Geografie",
         "subcategory": "Bund",
-        "question": "Das Nachbarland im Süden der Schweiz ist …",
+        "question": "Das Nachbarland im Süden der Schweiz ist ….",
         "options": [
             "a)  Spanien.",
             "b)  Kroatien.",
@@ -4898,7 +4908,7 @@
         "subcategory": "Bund",
         "question": "Was bedeutet das Wort Röstigraben?",
         "options": [
-            "a)  die kulturelle Grenze zwischen der deutschsprachigen und der französischspra- chigen Schweiz",
+            "a)  die kulturelle Grenze zwischen der deutschsprachigen und der französischsprachigen Schweiz",
             "b)  das Rhonetal",
             "c)  die Aareschlucht",
             "d)  die Grenze zwischen der Schweiz und Deutschland"
@@ -4935,7 +4945,7 @@
         "id": 290,
         "category": "Geografie",
         "subcategory": "Kanton",
-        "question": "Geografisch gehört der Kanton Zürich ...",
+        "question": "Geografisch gehört der Kanton Zürich...",
         "options": [
             "a)  zum Jura.",
             "b)  zur Seenplatte.",
@@ -5292,7 +5302,7 @@
         "id": 311,
         "category": "Kultur und Alltagskultur",
         "subcategory": "Bund",
-        "question": "SBB, BLS, SOB, SZU sind Abkürzungen für Schweizer ...",
+        "question": "SBB, BLS, SOB, SZU sind Abkürzungen für Schweizer...",
         "options": [
             "a)  Gewerkschaften.",
             "b)  Kulturvereine.",
@@ -5445,7 +5455,7 @@
         "id": 320,
         "category": "Kultur und Alltagskultur",
         "subcategory": "Bund",
-        "question": "Roger Federer ist ein bekannter Schweizer …",
+        "question": "Roger Federer ist ein bekannter Schweizer ….",
         "options": [
             "a)  Tennisspieler.",
             "b)  Fussballspieler.",
@@ -5615,7 +5625,7 @@
         "id": 330,
         "category": "Kultur und Alltagskultur",
         "subcategory": "Bund",
-        "question": "Welche berühmte Figur hat die Schriftstellerin Johanna Spyri erfun- den?",
+        "question": "Welche berühmte Figur hat die Schriftstellerin Johanna Spyri erfunden?",
         "options": [
             "a)  Ueli der Knecht",
             "b)  Schellenursli",
@@ -5632,7 +5642,7 @@
         "id": 331,
         "category": "Kultur und Alltagskultur",
         "subcategory": "Bund",
-        "question": "Max Frisch (1911-1991) und Friedrich Dürrenmatt (1921-1990) waren bekannte Schweizer ...",
+        "question": "Max Frisch (1911-1991) und Friedrich Dürrenmatt (1921-1990) waren bekannte Schweizer...",
         "options": [
             "a)  Komponisten.",
             "b)  Schriftsteller.",
@@ -5649,7 +5659,7 @@
         "id": 332,
         "category": "Kultur und Alltagskultur",
         "subcategory": "Bund",
-        "question": "Nicky Saint-Phalle, Sophie Täuber-Arp und Pipilotti Rist sind internati- onal berühmte Schweizer ...",
+        "question": "Nicky Saint-Phalle, Sophie Täuber-Arp und Pipilotti Rist sind international berühmte Schweizer...",
         "options": [
             "a)  Politikerinnen.",
             "b)  Sportlerinnen.",
@@ -5700,7 +5710,7 @@
         "id": 335,
         "category": "Kultur und Alltagskultur",
         "subcategory": "Bund",
-        "question": "Die Schweiz ist Mitglied der Organisation für Sicherheit und Zusam- menarbeit in Europa (OSZE). Für was setzt sie sich dort besonders ein?",
+        "question": "Die Schweiz ist Mitglied der Organisation für Sicherheit und Zusammenarbeit in Europa (OSZE). Für was setzt sie sich dort besonders ein?",
         "options": [
             "a)  für die Friedenssicherung in Osteuropa und Zentralasien",
             "b)  für die wirtschaftliche Entwicklung Indiens",
@@ -5717,7 +5727,7 @@
         "id": 336,
         "category": "Kultur und Alltagskultur",
         "subcategory": "Bund",
-        "question": "Wie ist das Verhältnis der Schweiz zur Europäischen Union (EU) gere- gelt?",
+        "question": "Wie ist das Verhältnis der Schweiz zur Europäischen Union (EU) geregelt?",
         "options": [
             "a)  Sie ist Mitglied der EU.",
             "b)  Sie hat mit der EU die Bilateralen Verträge abgeschlossen.",
@@ -5802,7 +5812,7 @@
         "id": 341,
         "category": "Kultur und Alltagskultur",
         "subcategory": "Bund",
-        "question": "Welchen Sport macht man in der Schweiz am häufigsten in einem Ver- ein?",
+        "question": "Welchen Sport macht man in der Schweiz am häufigsten in einem Verein?",
         "options": [
             "a)  Schwimmen",
             "b)  Skifahren",
@@ -5819,7 +5829,7 @@
         "id": 342,
         "category": "Kultur und Alltagskultur",
         "subcategory": "Kanton",
-        "question": "Man sagt: Je schneller am Sechseläuten der «Böögg» (Schneemann- Puppe) auf dem Scheiterhaufen den Kopf verliert, desto ...",
+        "question": "Man sagt: Je schneller am Sechseläuten der «Böögg» (Schneemann- Puppe) auf dem Scheiterhaufen den Kopf verliert, desto...",
         "options": [
             "a)  kälter wird der Zürichsee im Sommer.",
             "b)  schöner wird der nächste Sommer.",
@@ -5955,7 +5965,7 @@
         "id": 350,
         "category": "Kultur und Alltagskultur",
         "subcategory": "Kanton",
-        "question": "Gottfried Keller (1819-1890) war ein bekannter Zürcher ...",
+        "question": "Gottfried Keller (1819-1890) war ein bekannter Zürcher...",
         "options": [
             "a)  Erfinder.",
             "b)  Schriftsteller.",

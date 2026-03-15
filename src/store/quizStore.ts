@@ -13,6 +13,7 @@ export interface Question {
   question_image: string | null;
   option_images: string[] | null;
   brochure_page?: number | null;
+  reviewed?: boolean;
 }
 
 export const useQuizStore = defineStore('quiz', () => {
@@ -24,7 +25,8 @@ export const useQuizStore = defineStore('quiz', () => {
   const init = async () => {
     loading.value = true;
     try {
-      const res = await fetch('/data/questions.json');
+      // Force fetch without cache for admin edits
+      const res = await fetch('/data/questions.json?t=' + Date.now());
       if (!res.ok) throw new Error('Failed to fetch questions');
       questions.value = await res.json();
       
@@ -106,6 +108,26 @@ export const useQuizStore = defineStore('quiz', () => {
     });
   });
 
+  const updateQuestion = (updatedQuestion: Question) => {
+    const index = questions.value.findIndex(q => q.id === updatedQuestion.id);
+    if (index !== -1) {
+      questions.value[index] = updatedQuestion;
+    }
+  };
+
+  const saveQuestionsAdmin = async () => {
+    const res = await fetch('/api/admin/questions', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify(questions.value)
+    });
+    if (!res.ok) {
+      throw new Error('Failed to save questions');
+    }
+  };
+
   return { 
     questions, 
     progressMap, 
@@ -116,6 +138,8 @@ export const useQuizStore = defineStore('quiz', () => {
     toggleBookmark, 
     recordAttempt,
     dueQuestions,
-    weakQuestions
+    weakQuestions,
+    updateQuestion,
+    saveQuestionsAdmin
   };
 });

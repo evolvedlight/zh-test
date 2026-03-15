@@ -14,7 +14,8 @@
         "explanation_en": "explanations/1.md",
         "option_images": null,
         "question_image": null,
-        "brochure_page": 7
+        "brochure_page": 7,
+        "reviewed": true
     },
     {
         "id": 2,
@@ -31,7 +32,8 @@
         "explanation_en": "explanations/2.md",
         "question_image": null,
         "option_images": null,
-        "brochure_page": null
+        "brochure_page": null,
+        "reviewed": true
     },
     {
         "id": 3,
@@ -48,7 +50,8 @@
         "explanation_en": "explanations/3.md",
         "question_image": null,
         "option_images": null,
-        "brochure_page": 7
+        "brochure_page": 7,
+        "reviewed": true
     },
     {
         "id": 4,
@@ -65,7 +68,8 @@
         "explanation_en": "explanations/4.md",
         "question_image": null,
         "option_images": null,
-        "brochure_page": 18
+        "brochure_page": 18,
+        "reviewed": true
     },
     {
         "id": 5,

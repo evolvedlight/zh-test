@@ -4,6 +4,7 @@ import StudyView from '../views/StudyView.vue'
 import PracticeView from '../views/PracticeView.vue'
 import ExamView from '../views/ExamView.vue'
 import StatsView from '../views/StatsView.vue'
+import AdminView from '../views/AdminView.vue'
 
 const router = createRouter({
   history: createWebHistory(),
@@ -13,6 +14,7 @@ const router = createRouter({
     { path: '/practice', name: 'practice', component: PracticeView },
     { path: '/exam', name: 'exam', component: ExamView },
     { path: '/stats', name: 'stats', component: StatsView },
+    { path: '/admin', name: 'admin', component: AdminView },
   ]
 })
 
